@@ -1,0 +1,94 @@
+{
+  "version": "5.0.0",
+  "base_url": "https://timmiejtwitch-sketch.github.io/jami-protect",
+  "public_named_games": [
+    {
+      "name": "Cyberpunk 2077",
+      "slug": "cyberpunk-2077",
+      "cover": "assets/game-art/cyberpunk-2077.svg",
+      "page": "games/cyberpunk-2077/"
+    },
+    {
+      "name": "Minecraft Java",
+      "slug": "minecraft-java",
+      "cover": "assets/game-art/minecraft-java.svg",
+      "page": "games/minecraft-java/"
+    },
+    {
+      "name": "Grand Theft Auto IV",
+      "slug": "grand-theft-auto-iv",
+      "cover": "assets/game-art/grand-theft-auto-iv.svg",
+      "page": "games/grand-theft-auto-iv/"
+    },
+    {
+      "name": "Batman: Arkham Knight",
+      "slug": "batman-arkham-knight",
+      "cover": "assets/game-art/batman-arkham-knight.svg",
+      "page": "games/batman-arkham-knight/"
+    },
+    {
+      "name": "Star Wars Jedi: Survivor",
+      "slug": "star-wars-jedi-survivor",
+      "cover": "assets/game-art/star-wars-jedi-survivor.svg",
+      "page": "games/star-wars-jedi-survivor/"
+    },
+    {
+      "name": "Dragon's Dogma 2",
+      "slug": "dragons-dogma-2",
+      "cover": "assets/game-art/dragons-dogma-2.svg",
+      "page": "games/dragons-dogma-2/"
+    },
+    {
+      "name": "Borderlands 4",
+      "slug": "borderlands-4",
+      "cover": "assets/game-art/borderlands-4.svg",
+      "page": "games/borderlands-4/"
+    },
+    {
+      "name": "ARK: Survival Evolved",
+      "slug": "ark-survival-evolved",
+      "cover": "assets/game-art/ark-survival-evolved.svg",
+      "page": "games/ark-survival-evolved/"
+    },
+    {
+      "name": "Marvel Rivals",
+      "slug": "marvel-rivals",
+      "cover": "assets/game-art/marvel-rivals.svg",
+      "page": "games/marvel-rivals/"
+    },
+    {
+      "name": "Elden Ring",
+      "slug": "elden-ring",
+      "cover": "assets/game-art/elden-ring.svg",
+      "page": "games/elden-ring/"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "slug": "red-dead-redemption-2",
+      "cover": "assets/game-art/red-dead-redemption-2.svg",
+      "page": "games/red-dead-redemption-2/"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "slug": "baldurs-gate-3",
+      "cover": "assets/game-art/baldurs-gate-3.svg",
+      "page": "games/baldurs-gate-3/"
+    }
+  ],
+  "cover_policy": "Every canonical game publicly named in the game library must have a local cover asset and a crawlable game page.",
+  "seo_features": [
+    "unique titles and descriptions",
+    "canonical URLs",
+    "index/follow robots directives",
+    "game hub",
+    "12 game-specific landing pages",
+    "BreadcrumbList JSON-LD on game pages",
+    "Organization JSON-LD on homepage",
+    "image sitemap entries",
+    "descriptive image filenames and alt text",
+    "crawlable internal links",
+    "404 noindex",
+    "Open Graph and Twitter metadata",
+    "max-image-preview:large"
+  ]
+}
