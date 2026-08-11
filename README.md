@@ -23,7 +23,7 @@ This repository is prepared to host the public JaMi Protect landing page with Gi
 6. GitHub will publish the site at the repository's Pages URL.
 
 Expected URL for this package:
-`https://timmiejtwitch-sketch.github.io/Jamiprotect/`
+`https://timmiejtwitch-sketch.github.io/jami-protect/`
 
 ## Enabling the installer
 
@@ -37,7 +37,7 @@ When you have a real release:
 5. Commit.
 
 The direct latest-download pattern is then:
-`https://github.com/timmiejtwitch-sketch/Jamiprotect/releases/latest/download/JaMiProtect_Setup.exe`
+`https://github.com/timmiejtwitch-sketch/jami-protect/releases/latest/download/JaMiProtect_Setup.exe`
 
 ## Important before public software release
 

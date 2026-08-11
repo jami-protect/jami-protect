@@ -3,10 +3,10 @@ JAMI PROTECT WEBSITE V1
 
 TARGET REPOSITORY
 Owner: timmiejtwitch-sketch
-Repository: Jamiprotect
+Repository: jami-protect
 
 QUICKEST UPLOAD ROUTE
-1. Create the public GitHub repository: Jamiprotect
+1. Create the public GitHub repository: jami-protect
 2. Open the repository.
 3. Choose Add file -> Upload files.
 4. Drag ALL files and folders from this package into the repository.
@@ -19,7 +19,7 @@ QUICKEST UPLOAD ROUTE
 10. Save.
 
 EXPECTED WEBSITE
-https://timmiejtwitch-sketch.github.io/Jamiprotect/
+https://timmiejtwitch-sketch.github.io/jami-protect/
 
 DOWNLOAD SYSTEM
 The website is deliberately shipped with:
