@@ -1,0 +1,101 @@
+{
+  "version": "6.0.0",
+  "status": "PASS",
+  "games": [
+    {
+      "name": "Cyberpunk 2077",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 1091500
+    },
+    {
+      "name": "Minecraft Java",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": null
+    },
+    {
+      "name": "Grand Theft Auto IV",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 12210
+    },
+    {
+      "name": "Batman: Arkham Knight",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 208650
+    },
+    {
+      "name": "Star Wars Jedi: Survivor",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 1774580
+    },
+    {
+      "name": "Dragon's Dogma 2",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 2054970
+    },
+    {
+      "name": "Borderlands 4",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 1285190
+    },
+    {
+      "name": "ARK: Survival Evolved",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 346110
+    },
+    {
+      "name": "Marvel Rivals",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 2767030
+    },
+    {
+      "name": "Elden Ring",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 1245620
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 1174180
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "page": true,
+      "official_art_primary": true,
+      "local_fallback": true,
+      "steam_appid": 1086940
+    }
+  ],
+  "claims_guard": {
+    "open_source_claim": false,
+    "eac_vanguard_approval_claim": false,
+    "zero_registry_damage_claim": false,
+    "safe_claims_used": [
+      "No anti-cheat bypasses",
+      "Designed to keep Windows Defender enabled",
+      "Backup / rollback-aware",
+      "No blind registry hacks"
+    ]
+  }
+}
