@@ -2,7 +2,7 @@ JAMI PROTECT WEBSITE V1
 =======================
 
 TARGET REPOSITORY
-Owner: timmiejtwitch-sketch
+Owner: jami-protect
 Repository: jami-protect
 
 QUICKEST UPLOAD ROUTE
@@ -19,7 +19,7 @@ QUICKEST UPLOAD ROUTE
 10. Save.
 
 EXPECTED WEBSITE
-https://timmiejtwitch-sketch.github.io/jami-protect/
+https://jami-protect.github.io/jami-protect/
 
 DOWNLOAD SYSTEM
 The website is deliberately shipped with:

@@ -20,13 +20,13 @@ MAIN CHANGES
 
 UPLOAD
 1. Extract this ZIP
-2. Open: https://github.com/timmiejtwitch-sketch/jami-protect
+2. Open: https://github.com/jami-protect/jami-protect
 3. Add file -> Upload files
 4. Upload ALL contents to the repository root
 5. Commit changes
 6. Wait for GitHub Pages deployment
 7. Open:
-   https://timmiejtwitch-sketch.github.io/jami-protect/?v=4
+   https://jami-protect.github.io/jami-protect/?v=4
 8. Ctrl+F5 once
 
 The public installer remains disabled until the real JaMiProtect_Setup.exe exists.

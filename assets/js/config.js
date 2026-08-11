@@ -1,6 +1,6 @@
 window.JAMI_CONFIG = {
   programName: "JaMi Protect",
-  githubOwner: "timmiejtwitch-sketch",
+  githubOwner: "jami-protect",
   githubRepo: "jami-protect",
   installerFileName: "JaMiProtect_Setup.exe",
   versionLabel: "Preview",

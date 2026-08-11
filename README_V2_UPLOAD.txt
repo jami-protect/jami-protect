@@ -2,7 +2,7 @@ JAMI PROTECT WEBSITE V2 - DYNAMIC
 =================================
 
 This package targets:
-https://github.com/timmiejtwitch-sketch/jami-protect
+https://github.com/jami-protect/jami-protect
 
 UPLOAD
 1. Extract this ZIP.

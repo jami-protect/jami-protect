@@ -2,7 +2,7 @@ JAMI PROTECT V4.1 SEO CHECK
 ============================
 
 LIVE BASE URL
-https://timmiejtwitch-sketch.github.io/jami-protect/
+https://jami-protect.github.io/jami-protect/
 
 FILES
 - robots.txt      PASS
@@ -22,7 +22,7 @@ IMPORTANT
    to the clean page.
 3. Update <lastmod> only when page content changes meaningfully.
 4. After deployment, submit:
-   https://timmiejtwitch-sketch.github.io/jami-protect/sitemap.xml
+   https://jami-protect.github.io/jami-protect/sitemap.xml
    in Google Search Console.
 5. Use URL Inspection for the homepage after a major update.
 6. robots.txt/sitemap help discovery and crawling; they do not guarantee rankings.

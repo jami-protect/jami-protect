@@ -25,13 +25,13 @@ NEW
 
 UPLOAD
 1. Extract ZIP
-2. Upload ALL contents to github.com/timmiejtwitch-sketch/jami-protect
+2. Upload ALL contents to github.com/jami-protect/jami-protect
 3. Commit
 4. Wait for Pages
-5. Open https://timmiejtwitch-sketch.github.io/jami-protect/?v=5
+5. Open https://jami-protect.github.io/jami-protect/?v=5
 6. Ctrl+F5 once
 7. In Google Search Console submit:
-   https://timmiejtwitch-sketch.github.io/jami-protect/sitemap.xml
+   https://jami-protect.github.io/jami-protect/sitemap.xml
 
 NOTE
 Google site-name/favicon features are hostname-level, not subdirectory-level.
