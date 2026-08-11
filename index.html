@@ -1,24 +1,30 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#060d14">
-<title>JaMi Protect – Research-backed gaming optimization</title>
-<meta name="description" content="JaMi Protect researches game-specific PC performance guidance, validates evidence and turns it into hardware-aware optimization workflows.">
-<link rel="icon" href="assets/images/jami-icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="assets/css/styles.css">
-<meta property="og:title" content="JaMi Protect"><meta property="og:description" content="Optimize games with evidence, not guesswork."><meta property="og:type" content="website">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#070e16">
+<title>JaMi Protect – Optimize • Protect • Restore</title>
+<meta name="description" content="JaMi Protect researches game-specific PC performance guidance, validates evidence and turns it into hardware-aware, restore-aware optimization workflows.">
+<link rel="icon" href="assets/branding/jami-mark.svg?v=3" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/jami-v3.css?v=3.0.0">
+<meta property="og:title" content="JaMi Protect">
+<meta property="og:description" content="Optimize • Protect • Restore">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://timmiejtwitch-sketch.github.io/jami-protect/assets/branding/jami-splash.png">
 </head>
 <body>
 <canvas id="jami-particles"></canvas><div class="grid-overlay"></div>
 <div class="scroll-progress"></div>
 <header class="site-header">
   <div class="container nav">
-    <a class="brand" href="index.html"><span class="brand-mark">JM</span><span>JaMi Protect</span></a>
-    <button class="nav-toggle" aria-expanded="false">☰</button>
+    <a class="brand" href="index.html" aria-label="JaMi Protect home">
+      <img src="assets/branding/jami-logo.svg" alt="JaMi Protect">
+    </a>
+    <button class="nav-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
     <nav class="nav-links">
-      <a href="#features">Features</a>
-      <a href="#research">Research</a>
-      <a href="#games">Games</a>
+      <a href="index.html#features">Features</a>
+      <a href="index.html#research">Research</a>
+      <a href="index.html#games">Games</a>
       <a href="faq.html">FAQ</a>
       <a href="changelog.html">Changelog</a>
       <a class="btn btn-primary" href="download.html">Download</a>
@@ -27,57 +33,48 @@
 </header>
 <main>
 <section class="hero">
-  <div class="container hero-grid">
-    <div>
-      <div class="eyebrow"><span class="pulse-dot"></span> LIVE RESEARCH-DRIVEN OPTIMIZATION</div>
-      <h1>Optimize games around <span class="word-slot accent">evidence</span>.</h1>
-      <p class="hero-copy">JaMi Protect is built to research the exact game, reject weak or unrelated advice, understand the PC in front of it, and turn validated knowledge into safer performance workflows.</p>
-      <div class="actions">
-        <a class="btn btn-primary" href="download.html">Download for Windows →</a>
-        <a class="btn btn-secondary" href="#research">Watch JaMi work</a>
-      </div>
-      <div class="micro-trust">
-        <span>✓ Game-specific</span><span>✓ Hardware-aware</span><span>✓ Backup-first</span><span>✓ No placebo claims</span>
-      </div>
-    </div>
-    <div class="app-stage">
-      <div class="app-shell">
-        <div class="scanline"></div>
-        <div class="app-top">
-          <div class="dots"><i></i><i></i><i></i></div><div class="status-live">● RESEARCH ACTIVE</div>
-        </div>
-        <div class="app-body">
-          <aside class="app-side">
-            <div class="side-item active"></div><div class="side-item"></div><div class="side-item"></div><div class="side-item"></div><div class="side-item"></div>
-          </aside>
-          <div class="app-main">
-            <div class="scan-title"><span>GAME READY ANALYSIS</span><b>VALIDATING</b></div>
-            <div class="research-card"><div class="row"><span>Game identity</span><span class="tag">LOCKED</span></div><div class="track"><i></i></div></div>
-            <div class="research-card"><div class="row"><span>Performance research</span><span class="tag">SCANNING</span></div><div class="track"><i></i></div></div>
-            <div class="research-card"><div class="row"><span>Hardware fit</span><span class="tag">MATCHING</span></div><div class="track"><i></i></div></div>
-            <div class="research-card"><div class="row"><span>Restore safety</span><span class="tag">READY</span></div><div class="track"><i></i></div></div>
-          </div>
-        </div>
-      </div>
-      <div class="float-chip chip-a"><b>FILTER</b>Cross-game contamination blocked</div>
-      <div class="float-chip chip-b"><b>KNOWLEDGE</b>Evidence ranked & validated</div>
-      <div class="float-chip chip-c"><b>SAFETY</b>Restore path prepared</div>
-    </div>
+ <div class="container hero-grid">
+  <div>
+   <div class="eyebrow"><span class="pulse-dot"></span> Live research-driven optimization</div>
+   <h1>Optimize games around <span class="word-slot">evidence</span>.</h1>
+   <p class="hero-copy">JaMi Protect researches the exact game, rejects weak or unrelated advice, understands the PC in front of it, and turns validated knowledge into safer performance workflows.</p>
+   <div class="actions"><a class="btn btn-primary" href="download.html">Download for Windows →</a><a class="btn btn-secondary" href="#research">Watch JaMi work</a></div>
+   <div class="micro-trust"><span>✓ Game-specific</span><span>✓ Hardware-aware</span><span>✓ Backup-first</span><span>✓ No placebo claims</span></div>
   </div>
+  <div class="app-stage" aria-label="Animated JaMi Protect research preview">
+   <div class="app-shell">
+    <div class="scanline"></div>
+    <div class="app-top"><div class="dots"><i></i><i></i><i></i></div><div class="status-live">● RESEARCH ACTIVE</div></div>
+    <div class="app-body">
+     <aside class="app-side"><div class="side-item active"></div><div class="side-item"></div><div class="side-item"></div><div class="side-item"></div><div class="side-item"></div></aside>
+     <div class="app-main">
+      <div class="scan-title"><span>GAME READY ANALYSIS</span><b>VALIDATING</b></div>
+      <div class="research-card"><div class="row"><span>Game identity</span><span class="tag">LOCKED</span></div><div class="track"><i></i></div></div>
+      <div class="research-card"><div class="row"><span>Performance research</span><span class="tag">SCANNING</span></div><div class="track"><i></i></div></div>
+      <div class="research-card"><div class="row"><span>Hardware fit</span><span class="tag">MATCHING</span></div><div class="track"><i></i></div></div>
+      <div class="research-card"><div class="row"><span>Restore safety</span><span class="tag">READY</span></div><div class="track"><i></i></div></div>
+     </div>
+    </div>
+   </div>
+   <div class="float-chip chip-a"><b>FILTER</b>Wrong-game contamination blocked</div>
+   <div class="float-chip chip-b"><b>KNOWLEDGE</b>Evidence ranked & validated</div>
+   <div class="float-chip chip-c"><b>SAFETY</b>Restore path prepared</div>
+  </div>
+ </div>
 </section>
 
 <div class="marquee-wrap" id="games"><div class="marquee"><div class="marquee-set"><span class="game-pill"><i></i>Cyberpunk 2077</span><span class="game-pill"><i></i>Minecraft Java</span><span class="game-pill"><i></i>Grand Theft Auto IV</span><span class="game-pill"><i></i>Batman: Arkham Knight</span><span class="game-pill"><i></i>Star Wars Jedi: Survivor</span><span class="game-pill"><i></i>Dragon's Dogma 2</span><span class="game-pill"><i></i>Borderlands 4</span><span class="game-pill"><i></i>ARK: Survival Evolved</span><span class="game-pill"><i></i>Marvel Rivals</span><span class="game-pill"><i></i>Elden Ring</span><span class="game-pill"><i></i>Red Dead Redemption 2</span><span class="game-pill"><i></i>Baldur's Gate 3</span></div><div class="marquee-set" aria-hidden="true"><span class="game-pill"><i></i>Cyberpunk 2077</span><span class="game-pill"><i></i>Minecraft Java</span><span class="game-pill"><i></i>Grand Theft Auto IV</span><span class="game-pill"><i></i>Batman: Arkham Knight</span><span class="game-pill"><i></i>Star Wars Jedi: Survivor</span><span class="game-pill"><i></i>Dragon's Dogma 2</span><span class="game-pill"><i></i>Borderlands 4</span><span class="game-pill"><i></i>ARK: Survival Evolved</span><span class="game-pill"><i></i>Marvel Rivals</span><span class="game-pill"><i></i>Elden Ring</span><span class="game-pill"><i></i>Red Dead Redemption 2</span><span class="game-pill"><i></i>Baldur's Gate 3</span></div></div></div>
 
 <section id="features">
  <div class="container">
-  <div class="section-head reveal"><div class="kicker">Not another one-click placebo tool</div><h2>The intelligence is the product.</h2><p>JaMi’s difference is not a giant list of random tweaks. The goal is to understand what matters for a particular game and machine, then expose the reasoning and safety level clearly.</p></div>
+  <div class="section-head reveal"><div class="kicker">Not another one-click placebo tool</div><h2>The intelligence is the product.</h2><p>JaMi is designed to understand what matters for a particular game and machine, then expose the reasoning and safety level clearly.</p></div>
   <div class="feature-grid">
-   <article class="feature-card reveal"><div class="icon">◎</div><h3>Exact-game research</h3><p>Canonical game identity, targeted performance queries and contamination guards keep research attached to the correct game.</p></article>
+   <article class="feature-card reveal"><div class="icon">◎</div><h3>Exact-game research</h3><p>Canonical identity, targeted performance queries and contamination guards keep research attached to the correct game.</p></article>
    <article class="feature-card reveal"><div class="icon">⌁</div><h3>Hardware-aware</h3><p>CPU, GPU, VRAM, memory and workload context can change which recommendation makes sense.</p></article>
-   <article class="feature-card reveal"><div class="icon">✓</div><h3>Evidence validation</h3><p>Weak, unrelated or purely generic material can be rejected instead of silently becoming “optimization truth”.</p></article>
-   <article class="feature-card reveal"><div class="icon">↺</div><h3>Restore-aware</h3><p>Changes can be separated into read-only, preview, guided and explicitly confirmed actions with restore planning.</p></article>
-   <article class="feature-card reveal"><div class="icon">⚡</div><h3>Game Ready mode</h3><p>Focus the machine around the active game without pretending every background process is automatically bad.</p></article>
-   <article class="feature-card reveal"><div class="icon">▣</div><h3>Growing knowledge</h3><p>The research pipeline can keep expanding game coverage while preserving validation and game separation.</p></article>
+   <article class="feature-card reveal"><div class="icon">✓</div><h3>Evidence validation</h3><p>Weak, unrelated or generic material can be rejected instead of silently becoming optimization truth.</p></article>
+   <article class="feature-card reveal"><div class="icon">↺</div><h3>Restore-aware</h3><p>Read-only, preview, guided and confirmed actions can be kept separate with restore planning.</p></article>
+   <article class="feature-card reveal"><div class="icon">⚡</div><h3>Game Ready mode</h3><p>Focus the machine around the active game without assuming every background process is automatically bad.</p></article>
+   <article class="feature-card reveal"><div class="icon">▣</div><h3>Growing knowledge</h3><p>The research pipeline can expand coverage while preserving validation and game separation.</p></article>
   </div>
  </div>
 </section>
@@ -85,12 +82,7 @@
 <section id="research">
  <div class="container">
   <div class="demo reveal">
-   <div>
-    <div class="kicker">JaMi in action</div>
-    <h2>Watch the research pipeline think.</h2>
-    <p class="muted">This animated demo mirrors the architecture: identify the game, collect targeted evidence, reject contamination, compare performance guidance and prepare a safe recommendation path.</p>
-    <div class="actions"><a class="btn btn-primary" href="download.html">Get JaMi Protect →</a></div>
-   </div>
+   <div><div class="kicker">JaMi in action</div><h2>Watch the research pipeline think.</h2><p class="muted">Identify the game, collect targeted evidence, reject contamination, compare hardware context and prepare a safer recommendation path.</p><div class="actions"><a class="btn btn-primary" href="download.html">Get JaMi Protect →</a></div></div>
    <div class="demo-console">
     <div class="console-head"><i></i><i></i><i></i></div>
     <div class="console-line">[GAME] Canonical identity: <span class="cyan">Cyberpunk 2077</span></div>
@@ -119,20 +111,19 @@
 
 <section>
  <div class="container">
-  <div class="cta reveal">
-   <div><div class="kicker">JaMi Protect</div><h2>Performance advice should know what game you are actually playing.</h2><p class="muted">Public installer coming through the JaMi Protect release page.</p></div>
-   <a class="btn btn-primary" href="download.html">Download page →</a>
-  </div>
+  <div class="cta reveal"><div><div class="kicker">JaMi Protect</div><h2>Performance advice should know what game you are actually playing.</h2><p class="muted">Public installer will be delivered through the official JaMi Protect release page.</p></div><a class="btn btn-primary" href="download.html">Download page →</a></div>
  </div>
 </section>
 </main>
 <footer class="site-footer">
   <div class="container footer-grid">
-    <div>© <span data-current-year></span> JaMi Protect · Windows gaming optimization project.</div>
-    <div class="footer-links"><a href="privacy.html">Privacy</a><a href="faq.html">FAQ</a><a href="changelog.html">Changelog</a><a data-repo-url href="#">GitHub</a></div>
+    <div>© <span data-current-year></span> JaMi Protect · Optimize • Protect • Restore</div>
+    <div class="footer-links">
+      <a href="privacy.html">Privacy</a><a href="faq.html">FAQ</a><a href="changelog.html">Changelog</a><a data-repo-url href="#">GitHub</a>
+    </div>
   </div>
 </footer>
 <a class="sticky-download" href="download.html">Download JaMi Protect →</a>
-<script src="assets/js/config.js"></script>
-<script src="assets/js/site.js"></script>
+<script src="assets/js/config-v3.js?v=3.0.0"></script>
+<script src="assets/js/jami-v3.js?v=3.0.0"></script>
 </body></html>
