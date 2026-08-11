@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timmiejtwitch-sketch.github.io/Jamiprotect/sitemap.xml

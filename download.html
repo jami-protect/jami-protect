@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#071018">
+<link rel="icon" href="assets/images/jami-icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/styles.css">
+<title>Download JaMi Protect</title>
+<meta name="description" content="Download the latest JaMi Protect Windows release and view release information.">
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="index.html" aria-label="JaMi Protect home">
+      <span class="brand-mark">JM</span>
+      <span>JaMi Protect</span>
+    </a>
+    <button class="nav-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
+    <nav class="nav-links">
+      <a href="index.html#features">Features</a>
+      <a href="index.html#games">Games</a>
+      <a href="faq.html">FAQ</a>
+      <a href="changelog.html">Changelog</a>
+      <a class="btn btn-primary" href="download.html">Download</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+  <section class="page-hero">
+    <div class="kicker">Download</div>
+    <h1>JaMi Protect for Windows</h1>
+    <p>The download route is prepared for GitHub Releases. Publish a release asset named <strong>JaMiProtect_Setup.exe</strong> and flip one setting when you are ready to make the direct button live.</p>
+  </section>
+
+  <div class="notice">
+    <strong>Current status:</strong> public installer not enabled yet. This prevents a broken download button before your first real GitHub Release exists.
+  </div>
+
+  <section style="padding-top:20px">
+    <div class="download-panel">
+      <div class="kicker">Latest build</div>
+      <h2 style="margin-top:8px">JaMi Protect <span data-version-label>Preview</span></h2>
+      <div class="download-meta">
+        <div><span>Platform</span><strong>Windows</strong></div>
+        <div><span>Distribution</span><strong>GitHub Releases</strong></div>
+        <div><span>Installer name</span><strong>JaMiProtect_Setup.exe</strong></div>
+      </div>
+      <div class="actions">
+        <a class="btn btn-primary" data-direct-installer-url href="#">Direct installer →</a>
+        <a class="btn btn-secondary" data-releases-url href="#" target="_blank" rel="noopener">View all releases</a>
+      </div>
+      <p class="muted" style="margin-top:18px">Before enabling public distribution, sign the release where appropriate and publish hashes/release notes alongside the installer.</p>
+    </div>
+  </section>
+
+  <section style="padding-top:15px">
+    <div class="section-head"><div class="kicker">How to activate the button</div><h2>One small setting when your installer exists.</h2></div>
+    <div class="prose">
+      <ol>
+        <li>Create a GitHub Release in <code>timmiejtwitch-sketch/Jamiprotect</code>.</li>
+        <li>Upload the installer using the exact public filename <code>JaMiProtect_Setup.exe</code>.</li>
+        <li>Open <code>assets/js/config.js</code>.</li>
+        <li>Change <code>releaseReady: false</code> to <code>releaseReady: true</code>.</li>
+        <li>Commit the change. The landing page can then point directly to the latest installer.</li>
+      </ol>
+    </div>
+  </section>
+</main>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>© <span data-current-year></span> JaMi Protect. Windows gaming optimization software.</div>
+    <div class="footer-links">
+      <a href="privacy.html">Privacy</a>
+      <a href="faq.html">FAQ</a>
+      <a href="changelog.html">Changelog</a>
+      <a data-repo-url href="#">GitHub</a>
+    </div>
+  </div>
+</footer>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/site.js"></script>
+</body>
+</html>
