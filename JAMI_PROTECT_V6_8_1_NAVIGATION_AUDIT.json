@@ -1,0 +1,34 @@
+{
+  "version": "6.8.1",
+  "hotfix": "LOCALIZED_SECTION_NAVIGATION",
+  "status": "PASS",
+  "source_package": "JAMI_PROTECT_WEBSITE_V6_8_MULTILINGUAL.zip",
+  "html_files_total": 85,
+  "html_files_patched": 85,
+  "anchor_replacements": 425,
+  "patched_anchors": [
+    "why",
+    "features",
+    "modes",
+    "safety",
+    "jamilab"
+  ],
+  "regression_case": "nl/contact.html -> Waarom JaMi",
+  "regression": {
+    "nl_contact_why": true,
+    "nl_contact_features": true,
+    "nl_contact_modes": true,
+    "nl_contact_safety": true,
+    "nl_contact_jamilab": true,
+    "old_contact_local_anchor_absent": true
+  },
+  "remaining_local_nav_anchor_bugs": [],
+  "wrong_language_section_targets": [],
+  "missing_home_section_ids": [],
+  "examples": {
+    "en": "/jami-protect/#why",
+    "nl": "/jami-protect/nl/#why",
+    "de": "/jami-protect/de/#why",
+    "fr": "/jami-protect/fr/#why"
+  }
+}

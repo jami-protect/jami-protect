@@ -9,3 +9,7 @@ Languages:
 - Français: https://jami-protect.github.io/jami-protect/fr/
 
 Build: V6.8 MULTILINGUAL
+
+## V6.8.1 Navigation hotfix
+
+Fixed section navigation from subpages. Links such as Why JaMi / Features / Modes / Safety / JaMi Lab now point to the localized homepage before applying the section anchor, e.g. `/jami-protect/nl/#why` instead of `#why` on `nl/contact.html`.
