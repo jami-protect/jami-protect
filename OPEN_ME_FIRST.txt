@@ -1,2 +1,0 @@
-Open index.html locally to preview the site.
-Some links point to GitHub and will only be useful after the repository exists.
