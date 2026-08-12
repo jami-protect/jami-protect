@@ -1,4 +1,0 @@
-JaMi Protect
-Research-backed Windows gaming optimization.
-Website: https://jami-protect.github.io/jami-protect/
-Repository: https://github.com/jami-protect/jami-protect
