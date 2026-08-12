@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#100b17"/>
+    <stop offset=".62" stop-color="#100b17"/>
+    <stop offset="1" stop-color="#ff9d00" stop-opacity=".38"/>
+  </linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#c084fc"/>
+    <stop offset="1" stop-color="#ff9d00"/>
+  </linearGradient>
+  <radialGradient id="r">
+    <stop offset="0" stop-color="#c084fc" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#c084fc" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="600" height="800" fill="url(#bg)"/>
+<circle cx="420" cy="225" r="230" fill="url(#r)"/>
+<rect x="48" y="371" width="26" height="389" rx="13" fill="url(#g)" opacity="0.16"/><rect x="106" y="334" width="26" height="426" rx="13" fill="url(#g)" opacity="0.24"/><rect x="164" y="557" width="26" height="203" rx="13" fill="url(#g)" opacity="0.32"/><rect x="222" y="520" width="26" height="240" rx="13" fill="url(#g)" opacity="0.40"/><rect x="280" y="483" width="26" height="277" rx="13" fill="url(#g)" opacity="0.16"/><rect x="338" y="446" width="26" height="314" rx="13" fill="url(#g)" opacity="0.24"/><rect x="396" y="409" width="26" height="351" rx="13" fill="url(#g)" opacity="0.32"/><rect x="454" y="372" width="26" height="388" rx="13" fill="url(#g)" opacity="0.40"/><rect x="512" y="335" width="26" height="425" rx="13" fill="url(#g)" opacity="0.16"/>
+<circle cx="410.0" cy="350.0" r="55" fill="none" stroke="#c084fc" stroke-opacity="0.08" stroke-width="4"/><circle cx="364.0" cy="425.7" r="66" fill="none" stroke="#c084fc" stroke-opacity="0.11" stroke-width="4"/><circle cx="268.4" cy="431.8" r="77" fill="none" stroke="#c084fc" stroke-opacity="0.13" stroke-width="4"/><circle cx="211.0" cy="362.7" r="88" fill="none" stroke="#c084fc" stroke-opacity="0.16" stroke-width="4"/><circle cx="244.6" cy="281.9" r="99" fill="none" stroke="#c084fc" stroke-opacity="0.18" stroke-width="4"/>
+<path d="M0 620 C120 540 180 700 300 620 S480 540 600 640 V800 H0Z" fill="#ff9d00" opacity=".16"/>
+<path d="M0 675 C100 610 220 760 340 655 S520 605 600 700" fill="none" stroke="#c084fc" stroke-width="5" stroke-opacity=".45"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="42" y="66" fill="#c084fc" font-size="19" font-weight="700" letter-spacing="4">JAMI RESEARCH</text>
+  <text x="42" y="720" fill="#ffffff" fill-opacity=".55" font-size="18" letter-spacing="3">ARCANE GATE</text>
+</g>
+</svg>
