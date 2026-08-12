@@ -1,9 +1,15 @@
 {
   "name": "JaMi Protect",
   "short_name": "JaMi Protect",
-  "start_url": "./",
+  "start_url": "/jami-protect/",
   "display": "standalone",
-  "background_color": "#071018",
-  "theme_color": "#071018",
-  "icons": []
+  "background_color": "#070b10",
+  "theme_color": "#070b10",
+  "icons": [
+    {
+      "src": "/jami-protect/assets/branding/jami-mark.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }

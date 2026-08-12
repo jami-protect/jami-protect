@@ -1,87 +1,759 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jami-protect.github.io/jami-protect/</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/"/>
   </url>
   <url>
     <loc>https://jami-protect.github.io/jami-protect/games/</loc>
     <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/download.html</loc>
-    <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/faq.html</loc>
-    <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/changelog.html</loc>
-    <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/privacy.html</loc>
-    <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/contact.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/"/>
   </url>
   <url>
     <loc>https://jami-protect.github.io/jami-protect/reviews.html</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/reviews.html"/>
   </url>
   <url>
     <loc>https://jami-protect.github.io/jami-protect/leave-review.html</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/leave-review.html"/>
   </url>
   <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/</loc>
+    <loc>https://jami-protect.github.io/jami-protect/contact.html</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/contact.html"/>
   </url>
   <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/</loc>
+    <loc>https://jami-protect.github.io/jami-protect/download.html</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/download.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/download.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/download.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/download.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/download.html"/>
   </url>
   <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/</loc>
+    <loc>https://jami-protect.github.io/jami-protect/faq.html</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/faq.html"/>
   </url>
   <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/borderlands-4/</loc>
+    <loc>https://jami-protect.github.io/jami-protect/privacy.html</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/changelog.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/changelog.html"/>
   </url>
   <url>
     <loc>https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/</loc>
     <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/</loc>
-    <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/elden-ring/</loc>
-    <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/</loc>
-    <lastmod>2026-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/marvel-rivals/</loc>
-    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/"/>
   </url>
   <url>
     <loc>https://jami-protect.github.io/jami-protect/games/minecraft-java/</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/minecraft-java/"/>
   </url>
   <url>
-    <loc>https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/</loc>
+    <loc>https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/"/>
   </url>
   <url>
     <loc>https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/</loc>
     <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/games/elden-ring/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/elden-ring/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/games/borderlands-4/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/borderlands-4/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/games/marvel-rivals/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/marvel-rivals/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/reviews.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/reviews.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/leave-review.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/leave-review.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/contact.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/contact.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/download.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/download.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/download.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/download.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/download.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/download.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/faq.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/faq.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/privacy.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/changelog.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/changelog.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/cyberpunk-2077/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/minecraft-java/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/minecraft-java/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/grand-theft-auto-iv/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/batman-arkham-knight/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/star-wars-jedi-survivor/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/elden-ring/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/elden-ring/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/dragons-dogma-2/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/borderlands-4/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/borderlands-4/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/ark-survival-evolved/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/marvel-rivals/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/marvel-rivals/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/red-dead-redemption-2/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/nl/games/baldurs-gate-3/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/reviews.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/reviews.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/leave-review.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/leave-review.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/contact.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/contact.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/download.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/download.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/download.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/download.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/download.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/download.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/faq.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/faq.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/privacy.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/changelog.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/changelog.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/cyberpunk-2077/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/minecraft-java/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/minecraft-java/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/grand-theft-auto-iv/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/batman-arkham-knight/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/star-wars-jedi-survivor/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/elden-ring/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/elden-ring/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/dragons-dogma-2/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/borderlands-4/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/borderlands-4/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/ark-survival-evolved/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/marvel-rivals/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/marvel-rivals/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/red-dead-redemption-2/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/de/games/baldurs-gate-3/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/reviews.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/reviews.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/leave-review.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/leave-review.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/leave-review.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/contact.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/contact.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/download.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/download.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/download.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/download.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/download.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/download.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/faq.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/faq.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/privacy.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/changelog.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/changelog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/changelog.html"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/cyberpunk-2077/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/cyberpunk-2077/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/minecraft-java/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/minecraft-java/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/minecraft-java/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/grand-theft-auto-iv/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/grand-theft-auto-iv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/batman-arkham-knight/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/batman-arkham-knight/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/star-wars-jedi-survivor/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/star-wars-jedi-survivor/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/elden-ring/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/elden-ring/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/elden-ring/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/dragons-dogma-2/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/dragons-dogma-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/borderlands-4/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/borderlands-4/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/borderlands-4/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/ark-survival-evolved/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/ark-survival-evolved/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/marvel-rivals/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/marvel-rivals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/marvel-rivals/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/red-dead-redemption-2/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/red-dead-redemption-2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/"/>
+  </url>
+  <url>
+    <loc>https://jami-protect.github.io/jami-protect/fr/games/baldurs-gate-3/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://jami-protect.github.io/jami-protect/nl/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jami-protect.github.io/jami-protect/de/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jami-protect.github.io/jami-protect/fr/games/baldurs-gate-3/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/"/>
   </url>
 </urlset>

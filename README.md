@@ -1,10 +1,11 @@
-# JaMi Protect
+# JaMi Protect Website V6.8
 
-Production GitHub Pages website.
+Production multilingual GitHub Pages build.
 
-- Website: https://jami-protect.github.io/jami-protect/
-- Games: https://jami-protect.github.io/jami-protect/games/
-- Reviews: https://jami-protect.github.io/jami-protect/reviews.html
-- Contact: https://jami-protect.github.io/jami-protect/contact.html
+Languages:
+- English: https://jami-protect.github.io/jami-protect/
+- Nederlands: https://jami-protect.github.io/jami-protect/nl/
+- Deutsch: https://jami-protect.github.io/jami-protect/de/
+- Français: https://jami-protect.github.io/jami-protect/fr/
 
-Current website build: **V6.7 CLEAN RESCUE**
+Build: V6.8 MULTILINGUAL
