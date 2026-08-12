@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jami-protect.github.io/jami-protect/sitemap.xml
