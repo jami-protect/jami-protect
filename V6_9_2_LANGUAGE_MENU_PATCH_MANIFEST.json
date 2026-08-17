@@ -1,0 +1,1020 @@
+{
+  "version": "6.9.2",
+  "files": [
+    {
+      "path": "404.html",
+      "sha256": "9b35d0dabe25d4e2ff72132013984dae34751b63bda002718e713ff0ecab1f66",
+      "bytes": 6908
+    },
+    {
+      "path": "V6_9_2_LANGUAGE_MENU_FIX_README.txt",
+      "sha256": "a1aa0060f3e88355aed2c306a9bc942039308bc08a1891d5487f10f9e40d67c1",
+      "bytes": 814
+    },
+    {
+      "path": "V6_9_2_LANGUAGE_MENU_VALIDATION_REPORT.json",
+      "sha256": "5c8d8bdf342e844b01eae3591004930b4fdce9381bb6622b219196a6162ae974",
+      "bytes": 286
+    },
+    {
+      "path": "assets/css/jami-v6-9-2.css",
+      "sha256": "e953192f791540f1f48e91f992867a2c72a59ccfbed51b18ce91cb31d7db6118",
+      "bytes": 52571
+    },
+    {
+      "path": "assets/js/site-v6-9-2.js",
+      "sha256": "b9ea54b06af9a0250c4257f49f18f1cbb61e543c2a344547d31464efe47d7f89",
+      "bytes": 3421
+    },
+    {
+      "path": "changelog.html",
+      "sha256": "aeed6a825de7cd99d64d426a5771403e9f2fa7230f138f36bff42f4c610ada67",
+      "bytes": 7591
+    },
+    {
+      "path": "contact.html",
+      "sha256": "1de61baebfa46d75669fe5b8ca2fa2c3bf17621c9f0268256de99edd768c27bd",
+      "bytes": 7779
+    },
+    {
+      "path": "de/404.html",
+      "sha256": "c314ba4d0f73f411a469bce039ea723fe3d6388c0f35b4aa3604ef726e6ea048",
+      "bytes": 8074
+    },
+    {
+      "path": "de/changelog.html",
+      "sha256": "37f5ded4853bd8fb8caa5b44dd288e0464022ef286014b87606a5a52b626aac2",
+      "bytes": 7749
+    },
+    {
+      "path": "de/contact.html",
+      "sha256": "0387030d900bff38f016fe202deb6a607fcd3438dfe1990240df877cab8c65af",
+      "bytes": 7795
+    },
+    {
+      "path": "de/download.html",
+      "sha256": "2c2ff363f9be54f9a6307691571ed6787a4e59ba53995bfafc8761607acf3042",
+      "bytes": 7681
+    },
+    {
+      "path": "de/faq.html",
+      "sha256": "a8718ae18cf885f030b6424375d0382c0941d4d1ff0ff4c2be280553ad3c3a71",
+      "bytes": 7414
+    },
+    {
+      "path": "de/games/ark-survival-evolved/index.html",
+      "sha256": "39239ae91aac9ccd644aa98d290f8756f3035aa98a8f85a0c2405f70e976918f",
+      "bytes": 11740
+    },
+    {
+      "path": "de/games/baldurs-gate-3/index.html",
+      "sha256": "bcb7c08d8aa7443da9a47f1ff69d86a8c93a414a4843b03766943b8a21066753",
+      "bytes": 11508
+    },
+    {
+      "path": "de/games/batman-arkham-knight/index.html",
+      "sha256": "4a37b0a3cd99036d5ba205f88ce864c6af04e21af4a2f7e13f3ac532f3c461bb",
+      "bytes": 11754
+    },
+    {
+      "path": "de/games/borderlands-4/index.html",
+      "sha256": "1f00db994223873f7a9892a98b82f809cddc2ca7d64429519c6bf130899394c0",
+      "bytes": 11697
+    },
+    {
+      "path": "de/games/cyberpunk-2077/index.html",
+      "sha256": "5912c5c26c5f4da4a030e47f31eb1682faa2128e956972fd6dd1a7103a784a44",
+      "bytes": 11564
+    },
+    {
+      "path": "de/games/dragons-dogma-2/index.html",
+      "sha256": "7887b0ee3b26330ba621460f06daf2690b6f10a671c510cd4be73afc8ab6ca5d",
+      "bytes": 11513
+    },
+    {
+      "path": "de/games/elden-ring/index.html",
+      "sha256": "8f0ab1666f8d5b3b4f5300d4c78a6a19e268c6d034a02961cbae64533d451bbe",
+      "bytes": 11323
+    },
+    {
+      "path": "de/games/grand-theft-auto-iv/index.html",
+      "sha256": "68ab5d7a37836070871c1591b52f7c90ebee9248c27f4a69eb25e38a90a4f71d",
+      "bytes": 11910
+    },
+    {
+      "path": "de/games/index.html",
+      "sha256": "e2c3a6f0dd9eed24a3cf17f0e49b225b1d696693144031f53506f3d2d8edc317",
+      "bytes": 22314
+    },
+    {
+      "path": "de/games/marvel-rivals/index.html",
+      "sha256": "cbe5d82894bd9b7a4355636abb9d18cd3b06a37851c536b9f26036476ee1c7f4",
+      "bytes": 11506
+    },
+    {
+      "path": "de/games/minecraft-java/index.html",
+      "sha256": "c18bbdbb504f3fcda50bb3cc544e67bb4252c15a19d500f13dea968c6ff38c97",
+      "bytes": 11427
+    },
+    {
+      "path": "de/games/red-dead-redemption-2/index.html",
+      "sha256": "a2db83f3b2e1f4f069e398e581c7b1a0326271e5c6c0893a1c8fc54611c03fc4",
+      "bytes": 11816
+    },
+    {
+      "path": "de/games/star-wars-jedi-survivor/index.html",
+      "sha256": "95b504c0ec4d92b7b32895ebbb829e4d0d8770de0f2aabc081bb8fe684457dcb",
+      "bytes": 11901
+    },
+    {
+      "path": "de/index.html",
+      "sha256": "894f306ed44fb7abb8dfee162d9ff0044edc5fde74e4467cf967f4ae54aad167",
+      "bytes": 22967
+    },
+    {
+      "path": "de/leave-review.html",
+      "sha256": "fc1b567007cdfc8331e3c0964a0b5dca603c729c7d0c8878c07ff202ad9dac6d",
+      "bytes": 9806
+    },
+    {
+      "path": "de/privacy.html",
+      "sha256": "9c52ce9776715606d86b019a15742464d7c3b1bfcb9c51dceca0eb686c4dcf16",
+      "bytes": 9341
+    },
+    {
+      "path": "de/reviews.html",
+      "sha256": "ca5e3faefacf781181a815936d3130659e4cc9b2df6a138359d46be4af0684b1",
+      "bytes": 8059
+    },
+    {
+      "path": "download.html",
+      "sha256": "2b6f79e1ad9e11241eb56171239cc450a2dfe9329ba889934f17433d5e800bb8",
+      "bytes": 7591
+    },
+    {
+      "path": "es/404.html",
+      "sha256": "80b587767df14801b066807337acc0d6dda5c5b8179e58e846d6834b7bb01a89",
+      "bytes": 7103
+    },
+    {
+      "path": "es/changelog.html",
+      "sha256": "fb3b182baea9b708087b8169d1bc83fbd8cf27c5c82cf6fd7df71840d6be8920",
+      "bytes": 7887
+    },
+    {
+      "path": "es/contact.html",
+      "sha256": "062e3a893db9195363638315d42611be2c7bc3c67bd590f803581e55dd2698c1",
+      "bytes": 7993
+    },
+    {
+      "path": "es/download.html",
+      "sha256": "e51918e7c1f984c18e08ba85abc3e68b4c0b4bab3cd75ddcda4f691248f6e676",
+      "bytes": 7767
+    },
+    {
+      "path": "es/faq.html",
+      "sha256": "d7fb4aa3489508811a4e734c40141d8dd11f5ec5838711c01595138d4a28a1df",
+      "bytes": 7579
+    },
+    {
+      "path": "es/games/ark-survival-evolved/index.html",
+      "sha256": "04c850fc73e428068a0bbcbdfbd8cb858a4565ce61775db5dcfc18a018fd5283",
+      "bytes": 11885
+    },
+    {
+      "path": "es/games/baldurs-gate-3/index.html",
+      "sha256": "eafcc502ffee1797e9acc6dcac2b761257d69d0d816ba65157670f5c9369fd1b",
+      "bytes": 11633
+    },
+    {
+      "path": "es/games/batman-arkham-knight/index.html",
+      "sha256": "8c15b4c08be0e9f8b9d4d0712af6f290059b3731f0d2d734f3a1f33522182a80",
+      "bytes": 11878
+    },
+    {
+      "path": "es/games/borderlands-4/index.html",
+      "sha256": "fb910a99465802f93747329cca991fbe02af6e7df8d051c486a2e88748697314",
+      "bytes": 11826
+    },
+    {
+      "path": "es/games/cyberpunk-2077/index.html",
+      "sha256": "bdd443566d7387981880f766a474f80ac93067db1d8251f4adb4e5b1177ec23f",
+      "bytes": 11687
+    },
+    {
+      "path": "es/games/dragons-dogma-2/index.html",
+      "sha256": "97ddece2b273736cf7be90871ea2be2d2fcae10990ef09ec3538a3b8a72295a9",
+      "bytes": 11649
+    },
+    {
+      "path": "es/games/elden-ring/index.html",
+      "sha256": "d5603875166f0a39f57991bcbe414f75f742865e8f5eb630a38bda4ed3f1e542",
+      "bytes": 11445
+    },
+    {
+      "path": "es/games/grand-theft-auto-iv/index.html",
+      "sha256": "ce7adedba61c58b89ce7fab672eb3405461c7d61df31ff1006a80739ef2d1f03",
+      "bytes": 12080
+    },
+    {
+      "path": "es/games/index.html",
+      "sha256": "336e8c6e48fda6c51818e5d4e9ed4a4e5610d37a9f1f4057d5718f5da549653c",
+      "bytes": 22313
+    },
+    {
+      "path": "es/games/marvel-rivals/index.html",
+      "sha256": "6a7d979f946d4bcf0ea50e2598ec1cfa315cc8189207cccf49d15d4ee7fca7cc",
+      "bytes": 11625
+    },
+    {
+      "path": "es/games/minecraft-java/index.html",
+      "sha256": "f31825f45adfa805e013596b51b8728164ca9d88a0d33daeade1acbcd3a14b2d",
+      "bytes": 11560
+    },
+    {
+      "path": "es/games/red-dead-redemption-2/index.html",
+      "sha256": "8241e1f8c293732d89b824cfd9b07fdbd5df12bc67c0705fa5ffb6885bf55e9f",
+      "bytes": 11921
+    },
+    {
+      "path": "es/games/star-wars-jedi-survivor/index.html",
+      "sha256": "38b593f8b5c661e506a4553766217cb2fc76140bb0a5a922a4e4790e91b059cd",
+      "bytes": 12027
+    },
+    {
+      "path": "es/index.html",
+      "sha256": "699c79fc877d58ba3c21a419f27a609ee81f251888e361e6a95320a5757288e8",
+      "bytes": 23489
+    },
+    {
+      "path": "es/leave-review.html",
+      "sha256": "d912abf0c80150f402b7a3af1437dcfc2f36541f7fb2943a2ab33983df4078b1",
+      "bytes": 10009
+    },
+    {
+      "path": "es/privacy.html",
+      "sha256": "5d2be9446c65f3be6e806003bb376f21db1679fab78abff15d4d0eb6521e0f63",
+      "bytes": 9397
+    },
+    {
+      "path": "es/reviews.html",
+      "sha256": "c5a7070ad1addff5ec65e8932c1997b8bb67e1ec74ed024399a08c791775be1d",
+      "bytes": 8203
+    },
+    {
+      "path": "faq.html",
+      "sha256": "38864c89ed59c7218ae4b6d721ea3b9c4dcdff34946d02136fae0628378d864b",
+      "bytes": 7314
+    },
+    {
+      "path": "fr/404.html",
+      "sha256": "fbdfbf4f76ce7ab606a2ddefd684e77dce017457c7c668a20836360a880b9bc2",
+      "bytes": 8108
+    },
+    {
+      "path": "fr/changelog.html",
+      "sha256": "04546a712d228e9257ab5a4c001eaf5a131de86cd08ee9d54b900c1d4e5575da",
+      "bytes": 7824
+    },
+    {
+      "path": "fr/contact.html",
+      "sha256": "a6b086e85c25de5b9de6767edb188837d8903e45caff481b80d54cf2a28da540",
+      "bytes": 7839
+    },
+    {
+      "path": "fr/download.html",
+      "sha256": "61408b056065decea857f84d510f2f36a269fb2919076dc70a051096f03ca73f",
+      "bytes": 7709
+    },
+    {
+      "path": "fr/faq.html",
+      "sha256": "b3d496b586fbe78f272268c86af15cedef2b2c82aa50532ea4cc2b230a6d7e41",
+      "bytes": 7437
+    },
+    {
+      "path": "fr/games/ark-survival-evolved/index.html",
+      "sha256": "2aa1bf3698a9c3898339bcd5003ef99d087fabc075df9db7dde6c3b305e6d554",
+      "bytes": 11868
+    },
+    {
+      "path": "fr/games/baldurs-gate-3/index.html",
+      "sha256": "28364069e3f470c662cc4019f1b1bafede9f37f906e32b36177910f8b211ff79",
+      "bytes": 11592
+    },
+    {
+      "path": "fr/games/batman-arkham-knight/index.html",
+      "sha256": "f8867c371e6478eb424fde08d4790308b6331104aa7f4c144a261f9ad7602bae",
+      "bytes": 11833
+    },
+    {
+      "path": "fr/games/borderlands-4/index.html",
+      "sha256": "0772784a2baeab212ef2d417089f0c852e190e94717fd7c495c5c620dc6df8ab",
+      "bytes": 11778
+    },
+    {
+      "path": "fr/games/cyberpunk-2077/index.html",
+      "sha256": "0a209f0bfe2f71fff0313f1608ff163da8a1a0a07a274fba2144e01bbae906cc",
+      "bytes": 11640
+    },
+    {
+      "path": "fr/games/dragons-dogma-2/index.html",
+      "sha256": "ee08cd358fcd733479434041db581c498fe388d0ad729ded243f7c8a432b93aa",
+      "bytes": 11605
+    },
+    {
+      "path": "fr/games/elden-ring/index.html",
+      "sha256": "0d602a3186a3f8e44b8ab17da2a2d664c244de36e79b2c293e80b3456c9a77fb",
+      "bytes": 11409
+    },
+    {
+      "path": "fr/games/grand-theft-auto-iv/index.html",
+      "sha256": "66c15cc4e1858867a1d3ca3dab5bc0ee915d1140899c58ad84696f3fee193c35",
+      "bytes": 12001
+    },
+    {
+      "path": "fr/games/index.html",
+      "sha256": "5efd1306806b43ccddc992b61e89cc712e339b962e129294a53bf722356033d4",
+      "bytes": 22352
+    },
+    {
+      "path": "fr/games/marvel-rivals/index.html",
+      "sha256": "cdb0d5923e1a73e242ad4970e7612f694190edac97b3c3e0b59bfd52b9ddb64b",
+      "bytes": 11574
+    },
+    {
+      "path": "fr/games/minecraft-java/index.html",
+      "sha256": "c588be1025c9a739cbd6072bdd293deea1fdfb8eff7dcce259c927ce8140cf4e",
+      "bytes": 11492
+    },
+    {
+      "path": "fr/games/red-dead-redemption-2/index.html",
+      "sha256": "e7d2027b6325aeaddf69230b05079536ff0f18ea207207c88e8b6c5ea5c294ae",
+      "bytes": 11892
+    },
+    {
+      "path": "fr/games/star-wars-jedi-survivor/index.html",
+      "sha256": "c2c7ffb28e58bf7c00d6792272e78a799b3af72202a8921f2145d79aea2a0a6c",
+      "bytes": 12000
+    },
+    {
+      "path": "fr/index.html",
+      "sha256": "6081936018d778e2cdf258b0e9134a2e19e2c99cc2d20190da2698a640e6d0ed",
+      "bytes": 23371
+    },
+    {
+      "path": "fr/leave-review.html",
+      "sha256": "c4b7c3f7eb61b427657dc327ac78fb86f3cc38596673ccdf75dc84d242d6769a",
+      "bytes": 9831
+    },
+    {
+      "path": "fr/privacy.html",
+      "sha256": "189bd7ec155cec99caaabc5c36d609093da083ed2b804daf260e78f0e7dfd048",
+      "bytes": 9385
+    },
+    {
+      "path": "fr/reviews.html",
+      "sha256": "ddc40f9d7451da976fea1c3c6ebef3882f41ce10b68633784b14026d5a82529a",
+      "bytes": 8098
+    },
+    {
+      "path": "games/ark-survival-evolved/index.html",
+      "sha256": "f4614cd496b57e217ba318da078471536fc473764063aece04b9314f27667624",
+      "bytes": 11609
+    },
+    {
+      "path": "games/baldurs-gate-3/index.html",
+      "sha256": "590e047df3dada5476dc16610f370e5fe079115e8603565f78792faafdf0566c",
+      "bytes": 11366
+    },
+    {
+      "path": "games/batman-arkham-knight/index.html",
+      "sha256": "af0f7b3a5547ad0dc30826f779dc716aeb187dd030212f98cb31f551f4104e28",
+      "bytes": 11603
+    },
+    {
+      "path": "games/borderlands-4/index.html",
+      "sha256": "cdac143c2d29f4da9d36f9d9dab461f0c6f425e8c91ed05a93a0a7c65b42aa62",
+      "bytes": 11532
+    },
+    {
+      "path": "games/cyberpunk-2077/index.html",
+      "sha256": "dbd22d3a4d664eff2caebba4df83a9b3860c405888bc2bc59cac054264b5cae6",
+      "bytes": 11410
+    },
+    {
+      "path": "games/dragons-dogma-2/index.html",
+      "sha256": "d87ea606ee82fe70a706a1c1f2ad0794b2124b8fa71cefa5c9ff8f0c49464569",
+      "bytes": 11366
+    },
+    {
+      "path": "games/elden-ring/index.html",
+      "sha256": "1aa087136851c50845290641e6dfb633042071e60d3a950b1eba1444cd04806e",
+      "bytes": 11169
+    },
+    {
+      "path": "games/grand-theft-auto-iv/index.html",
+      "sha256": "a9b51ebd418a214bd63c059d3a4adefcc6d158e0629e7d7d829d7d26f2c48c8d",
+      "bytes": 11768
+    },
+    {
+      "path": "games/index.html",
+      "sha256": "28b18448e0ef89aeff1738e85f8b7bd67ea8b66e112bf1599023391a7b8e6df9",
+      "bytes": 22034
+    },
+    {
+      "path": "games/marvel-rivals/index.html",
+      "sha256": "b69fcd338aae0aff877d4510bb547c8f9b831a3136bbd7bed50dfa8768922976",
+      "bytes": 11345
+    },
+    {
+      "path": "games/minecraft-java/index.html",
+      "sha256": "d32a81a1f76cfe8fe1eda0d4bce3f4cef7ec892e7f70b0127838860bf6c5bc5d",
+      "bytes": 11273
+    },
+    {
+      "path": "games/red-dead-redemption-2/index.html",
+      "sha256": "57f5f62a5ff75e65433b09c5224b18f437830514d622e8f385ff6468ea515da7",
+      "bytes": 11659
+    },
+    {
+      "path": "games/star-wars-jedi-survivor/index.html",
+      "sha256": "4e095eca1629e99a5799bd2a809d973134bea28b2501016a0cd624ed5f6a69f0",
+      "bytes": 11763
+    },
+    {
+      "path": "index.html",
+      "sha256": "25bbe29577cb05815671dd43a1f0dfc8479af20c951f3c5e87a1e2f7f6308314",
+      "bytes": 22537
+    },
+    {
+      "path": "ja/404.html",
+      "sha256": "c27087d462a0ed68c0a665e6ebfb26cd44cda6ed0cf167669ade758e4e2a962e",
+      "bytes": 7289
+    },
+    {
+      "path": "ja/changelog.html",
+      "sha256": "6b986460460c99219fb4afb241da6d0de3cf0693d85145166c197c0f3647f990",
+      "bytes": 7996
+    },
+    {
+      "path": "ja/contact.html",
+      "sha256": "ebad5a4a45369342d1eed23e214e1be7f27d09d65d923fee26af08f0a811c286",
+      "bytes": 8233
+    },
+    {
+      "path": "ja/download.html",
+      "sha256": "d3893c119aa59021db1f6e8210f330c9cfb5c17e580eec8632d64032a0e3e8cc",
+      "bytes": 7808
+    },
+    {
+      "path": "ja/faq.html",
+      "sha256": "3eade0ce804a5d0eea39f06724a7d6f8ce295245d6221bc643e4365a119e87a6",
+      "bytes": 7723
+    },
+    {
+      "path": "ja/games/ark-survival-evolved/index.html",
+      "sha256": "30fe2c28512545c9ef03cbce468d9c7d75b28cc5bcf34fcf5a97054cb4b68c0e",
+      "bytes": 12144
+    },
+    {
+      "path": "ja/games/baldurs-gate-3/index.html",
+      "sha256": "187e6f8a3e0540af6c1f4ef459fb3c8af576c1bf245fb6bb65ed3ac088e0cdf8",
+      "bytes": 11876
+    },
+    {
+      "path": "ja/games/batman-arkham-knight/index.html",
+      "sha256": "a5f0d19e69ef630682cf3f774b9a2379d682fa654beeef49854b0b27ed6304f1",
+      "bytes": 12147
+    },
+    {
+      "path": "ja/games/borderlands-4/index.html",
+      "sha256": "4e5522774fb88af4f20089c47e6faf834d490cb6a5d576ed93f674a276f51ecd",
+      "bytes": 12106
+    },
+    {
+      "path": "ja/games/cyberpunk-2077/index.html",
+      "sha256": "c4015054c8dff51d1bc458154a3164835d5b3e8b4e4793fc505fcc5aaf65480c",
+      "bytes": 11991
+    },
+    {
+      "path": "ja/games/dragons-dogma-2/index.html",
+      "sha256": "6077d1608678a1916fbe10b3b3732bb5eff3214d3ffe61ea4d6312957925d7bb",
+      "bytes": 11907
+    },
+    {
+      "path": "ja/games/elden-ring/index.html",
+      "sha256": "e9ffa8e6ec9e5f758d4f70e31942cde753bd2867a76341c1e81702fcd4abba25",
+      "bytes": 11688
+    },
+    {
+      "path": "ja/games/grand-theft-auto-iv/index.html",
+      "sha256": "902abb043a03bd44ea5d943ff139264fb27fc8bcb4725be00a83cbf9d89bc2bb",
+      "bytes": 12308
+    },
+    {
+      "path": "ja/games/index.html",
+      "sha256": "166ad52d277a8f96b85fa358230eb83e0a34cc098120da399436de011f1a4e42",
+      "bytes": 22783
+    },
+    {
+      "path": "ja/games/marvel-rivals/index.html",
+      "sha256": "549373f403ad13a50eb241e17be890d7d7ec9fa0893cbb55a44bb0aae4e3064e",
+      "bytes": 11906
+    },
+    {
+      "path": "ja/games/minecraft-java/index.html",
+      "sha256": "1b0f92c01603760335d730e6145398e26b3894148cbabf45af00b437a50bead2",
+      "bytes": 11825
+    },
+    {
+      "path": "ja/games/red-dead-redemption-2/index.html",
+      "sha256": "b33452db9faae3fb2d7fbc21d2c4c20765135b4c371ccb3c199beafd3407e616",
+      "bytes": 12193
+    },
+    {
+      "path": "ja/games/star-wars-jedi-survivor/index.html",
+      "sha256": "28c0573d034523cd4947c6d3a8445fcbad0b0d5e14b64065ac49a264f5c8f9cb",
+      "bytes": 12296
+    },
+    {
+      "path": "ja/index.html",
+      "sha256": "9db833c32c129a6bfd5f261cdcfe73e1d84099687f506caaa3fd20be8144ee71",
+      "bytes": 24033
+    },
+    {
+      "path": "ja/leave-review.html",
+      "sha256": "0060d3c0289ab21db532cef396391c34c18cd5edca9c17c8d32b80b4e656b501",
+      "bytes": 10272
+    },
+    {
+      "path": "ja/privacy.html",
+      "sha256": "97d305cf387e4668eb5ee8a6fcc7512577242fe57089feb7b7f4106930f222cf",
+      "bytes": 9665
+    },
+    {
+      "path": "ja/reviews.html",
+      "sha256": "e031558956e354f73144cc6c158773f4ba5fcffb46adb49319a7701d332f403d",
+      "bytes": 8381
+    },
+    {
+      "path": "leave-review.html",
+      "sha256": "c3a3a57d9889d4b328e039cd4cd1981a19c9339d4679a88f7b8437141d924c76",
+      "bytes": 9606
+    },
+    {
+      "path": "nl/404.html",
+      "sha256": "c98c4dc54baa10f1682ad56cb3588f4cad8f9f345515853f333177d9a7d557c0",
+      "bytes": 8024
+    },
+    {
+      "path": "nl/changelog.html",
+      "sha256": "fa7a4ec976e79d693e80ea27fd0aceb5a4ac40bcd777d92be57af4ff690b569e",
+      "bytes": 7690
+    },
+    {
+      "path": "nl/contact.html",
+      "sha256": "405bb7020afc3313c1a2af386f550a017492119a8b870bac2320d0c50fb340d5",
+      "bytes": 7797
+    },
+    {
+      "path": "nl/download.html",
+      "sha256": "06ddf1258eec2d2a6fe719f053a1ca30ef2f8cb78fadb591d423369199621bd2",
+      "bytes": 7616
+    },
+    {
+      "path": "nl/faq.html",
+      "sha256": "a46f2cbbfda6d096369c64e46ec13ca88d061c233bf669c2531c63e3431f0d78",
+      "bytes": 7342
+    },
+    {
+      "path": "nl/games/ark-survival-evolved/index.html",
+      "sha256": "2a931846e1d2a57f7f04f7e9d5b8eac8f0dbb67a505cf5e05a6bdecc44e53d9a",
+      "bytes": 11720
+    },
+    {
+      "path": "nl/games/baldurs-gate-3/index.html",
+      "sha256": "d98d4894a6d5a0056eed0f550e75db64bc7d3b90617b74f4e87ae6eb3bf22c77",
+      "bytes": 11488
+    },
+    {
+      "path": "nl/games/batman-arkham-knight/index.html",
+      "sha256": "83a5ecb7fff2b014077688a5ae6f6c468315c192496e083f7cade9d7555fca6c",
+      "bytes": 11729
+    },
+    {
+      "path": "nl/games/borderlands-4/index.html",
+      "sha256": "3f7a4e84597f2c36e917e094f7c2ab2fc1160f8fbd38dcdc53cf6d7e93c5878f",
+      "bytes": 11650
+    },
+    {
+      "path": "nl/games/cyberpunk-2077/index.html",
+      "sha256": "0859ea844917eae8d13f02797f7c54df3f2d483c4719b07cf5cc557fe5958fd5",
+      "bytes": 11530
+    },
+    {
+      "path": "nl/games/dragons-dogma-2/index.html",
+      "sha256": "946561876242f62a189d8485fc5c24f2a228c6af1520bc76b42ff38ab659931d",
+      "bytes": 11479
+    },
+    {
+      "path": "nl/games/elden-ring/index.html",
+      "sha256": "f51ff24486cded36b1231f217e95e30aa8cc0bd78d4dcafa833ac97316263215",
+      "bytes": 11291
+    },
+    {
+      "path": "nl/games/grand-theft-auto-iv/index.html",
+      "sha256": "0406e1c6ac3cbb0a8596b60d3f907368132e83f04d368c8723d6617cf5d4bb87",
+      "bytes": 11894
+    },
+    {
+      "path": "nl/games/index.html",
+      "sha256": "25c690c824d644ecdcfe90c312b8a1b030e2dbd060acb0dccac23f407d09055e",
+      "bytes": 22234
+    },
+    {
+      "path": "nl/games/marvel-rivals/index.html",
+      "sha256": "0b486635640dba36b4e22d4bf210419994fb6d5358f8c5a8ff973d1f997fba7b",
+      "bytes": 11474
+    },
+    {
+      "path": "nl/games/minecraft-java/index.html",
+      "sha256": "58d3414b079be305b9484458cac51c9396320300119843a79b72ce9048673d0c",
+      "bytes": 11393
+    },
+    {
+      "path": "nl/games/red-dead-redemption-2/index.html",
+      "sha256": "935371546fa6caa77d93a8021c45cbe98c3eb0643ca0747b8d494b5b20f5bfb3",
+      "bytes": 11788
+    },
+    {
+      "path": "nl/games/star-wars-jedi-survivor/index.html",
+      "sha256": "7caa1c98c508843dc8ca12ebf83fa833edd548e46e1e5c522eaade2fb9032e02",
+      "bytes": 11870
+    },
+    {
+      "path": "nl/index.html",
+      "sha256": "27b890c759e3ba13d3a497af5eccbfa15fa90fb3660c31d342b29cbc12d4d9c2",
+      "bytes": 22827
+    },
+    {
+      "path": "nl/leave-review.html",
+      "sha256": "2552bd956cd2bab0c3b32854080bbdb5e765ee8bcd02a243b862c014b98c29df",
+      "bytes": 9751
+    },
+    {
+      "path": "nl/privacy.html",
+      "sha256": "b476fd6cc7302767f24bffcb93899d33483dac6ba3ccd49bd1867c89a4fae89a",
+      "bytes": 9212
+    },
+    {
+      "path": "nl/reviews.html",
+      "sha256": "e44233d09f7a714f925c8f81d512790db833c57d64fe9101824ec97bf7304b3e",
+      "bytes": 8009
+    },
+    {
+      "path": "pl/404.html",
+      "sha256": "0340a6b37d9c2bdfd5d7b41f1533888815c74a49d66977e568de5a0d494e1efb",
+      "bytes": 7087
+    },
+    {
+      "path": "pl/changelog.html",
+      "sha256": "0dc7ee604acf9c19cdbd7e9d572cdc98bcde5cd4758591c4d45a6ab5852a08df",
+      "bytes": 7815
+    },
+    {
+      "path": "pl/contact.html",
+      "sha256": "78abbb08d077f4eaa4928333f7576b510b02c7a57b59f0614af5cc1f4b8030f8",
+      "bytes": 7927
+    },
+    {
+      "path": "pl/download.html",
+      "sha256": "7314e847f46655eb6256f59dc37e533e89e9bf78491200438a52343d60d12868",
+      "bytes": 7709
+    },
+    {
+      "path": "pl/faq.html",
+      "sha256": "8fc795ddc99d8f91c418e281453efa54125370c58ddb8e4e9328a13bbcf35d0f",
+      "bytes": 7594
+    },
+    {
+      "path": "pl/games/ark-survival-evolved/index.html",
+      "sha256": "0907cbbf6a0feb09e2f4eb3c96f2556f014d27fac101d487c104487ec30c4235",
+      "bytes": 11794
+    },
+    {
+      "path": "pl/games/baldurs-gate-3/index.html",
+      "sha256": "938e9418ea1e0ccc79e08476d42ced66d2a4bf485cd96e60bc1d072b5fe2a528",
+      "bytes": 11521
+    },
+    {
+      "path": "pl/games/batman-arkham-knight/index.html",
+      "sha256": "a21123846ee1420fbc5a4e073f078ec5936bb54e04b45fafbb1fa05d56d45ef0",
+      "bytes": 11782
+    },
+    {
+      "path": "pl/games/borderlands-4/index.html",
+      "sha256": "df10d5f669291bb1e47f890eec281cf874fcf82b17c90be8012f1b601f2c5ccc",
+      "bytes": 11719
+    },
+    {
+      "path": "pl/games/cyberpunk-2077/index.html",
+      "sha256": "1219c4efbc5c99ab1683d0409be115be02861d1c39fccae455bad055d4452f03",
+      "bytes": 11575
+    },
+    {
+      "path": "pl/games/dragons-dogma-2/index.html",
+      "sha256": "0646eb99cb5841d5e3a5fac7264ccb0fd4f27883bac7e43bd374f9600e30e3dc",
+      "bytes": 11553
+    },
+    {
+      "path": "pl/games/elden-ring/index.html",
+      "sha256": "2f376aed974597d2194b6508cc60aa511ecea6659c53bc765c262513608c8bbc",
+      "bytes": 11323
+    },
+    {
+      "path": "pl/games/grand-theft-auto-iv/index.html",
+      "sha256": "5623329fec5902ce81d4fc4fa1e3d122de87a4a38f96cec1b69d49c4890cbb70",
+      "bytes": 11956
+    },
+    {
+      "path": "pl/games/index.html",
+      "sha256": "212797ab39678e73f4d7293d1c77878004d99b76ccfaf22012a3edcb27b1f3c5",
+      "bytes": 22240
+    },
+    {
+      "path": "pl/games/marvel-rivals/index.html",
+      "sha256": "372145dba91ee5c32687c069d6df4eeb9d98824333961837c2b64df015a84ec0",
+      "bytes": 11508
+    },
+    {
+      "path": "pl/games/minecraft-java/index.html",
+      "sha256": "77fd4c90bf7a71807c94eeec793be6715834921f8077ddbb74539fe5e3b00b1d",
+      "bytes": 11426
+    },
+    {
+      "path": "pl/games/red-dead-redemption-2/index.html",
+      "sha256": "b05c6565451350d2a385d2ee322b3a20927d975390de66962636764df70e0976",
+      "bytes": 11830
+    },
+    {
+      "path": "pl/games/star-wars-jedi-survivor/index.html",
+      "sha256": "6f6480d0fd01af595864b449c69a6c9b8e77685b6aa4d404b157060986748ac9",
+      "bytes": 11931
+    },
+    {
+      "path": "pl/index.html",
+      "sha256": "becda4acd3ead5ee2adcf4ac445af88573f151a25b655b4dba2e431ff31465aa",
+      "bytes": 23159
+    },
+    {
+      "path": "pl/leave-review.html",
+      "sha256": "a6083b2bd4570efdb41b44086fd34eada584f8a1252f1bd04b7c2158ab33bfd5",
+      "bytes": 9853
+    },
+    {
+      "path": "pl/privacy.html",
+      "sha256": "84412bea67011d090202ba8b8d10d64ccbb11a6c646f11d4405e179a5584bda2",
+      "bytes": 9247
+    },
+    {
+      "path": "pl/reviews.html",
+      "sha256": "53f7fa4d517681883e2b6270cb75330ddeb8547b826281a272b8d99e3a73171f",
+      "bytes": 8069
+    },
+    {
+      "path": "privacy.html",
+      "sha256": "49f4a4c5fe6690224fc020796f8277e29365377084136a5589f953a77c09f7e5",
+      "bytes": 9071
+    },
+    {
+      "path": "pt-br/404.html",
+      "sha256": "c6e15819086a26b46c7555e07ea7477b374a7ad02864b135b73318d198446a36",
+      "bytes": 7186
+    },
+    {
+      "path": "pt-br/changelog.html",
+      "sha256": "c9b2819c597e1d6399d39f812c917539f0b49c8150c1321d2a231dc683b72591",
+      "bytes": 7929
+    },
+    {
+      "path": "pt-br/contact.html",
+      "sha256": "7ba470299000fa5102e457ae9417c69d159d8474210de2fbd0d8cc4102965ff6",
+      "bytes": 8031
+    },
+    {
+      "path": "pt-br/download.html",
+      "sha256": "0a837acccbcb9a9b31c0575fd0a52c06d4e6c3eef9ef9edea4f6d82ab01e7bfa",
+      "bytes": 7818
+    },
+    {
+      "path": "pt-br/faq.html",
+      "sha256": "9ad9927b656641d1b381f9495b1492491a1c414657ddc9b73acba33ab23c2531",
+      "bytes": 7625
+    },
+    {
+      "path": "pt-br/games/ark-survival-evolved/index.html",
+      "sha256": "1c7911df29296b757de6c7a2d0242a44e38f7a0bb44f4425dd50a0b5dd226492",
+      "bytes": 11982
+    },
+    {
+      "path": "pt-br/games/baldurs-gate-3/index.html",
+      "sha256": "82070400827f20d36b40d0347cbcb47c14a8571eb7b131a07e3c58da38646b73",
+      "bytes": 11725
+    },
+    {
+      "path": "pt-br/games/batman-arkham-knight/index.html",
+      "sha256": "f5ba3fef0c8806d96eb81a5a5e906cd16fe9b45337733600acd0d721a1e7442f",
+      "bytes": 11986
+    },
+    {
+      "path": "pt-br/games/borderlands-4/index.html",
+      "sha256": "20741352982996a796ba5b5abf99eaf429ae684a5e8fb0b6fbb517093c524501",
+      "bytes": 11916
+    },
+    {
+      "path": "pt-br/games/cyberpunk-2077/index.html",
+      "sha256": "707d77b5faeb845524e40437625efe1fef12e10c197fe878093520bf088e5f09",
+      "bytes": 11771
+    },
+    {
+      "path": "pt-br/games/dragons-dogma-2/index.html",
+      "sha256": "09eee7f543c4c8cd79095a6e6899d99c773d0e7a623a95bb673533c812c5981b",
+      "bytes": 11750
+    },
+    {
+      "path": "pt-br/games/elden-ring/index.html",
+      "sha256": "918c224c90e77930518638f4795fcd290949b81111a5216d9d0e714c92d7ff93",
+      "bytes": 11532
+    },
+    {
+      "path": "pt-br/games/grand-theft-auto-iv/index.html",
+      "sha256": "a1c8cc832e29b321a31f48690b42367a845ec0cf9ee7acd28129429fbab12f12",
+      "bytes": 12167
+    },
+    {
+      "path": "pt-br/games/index.html",
+      "sha256": "e2062d096ce161728355b8e1665605766917f9c8d21001ed0d03d739d22d49d0",
+      "bytes": 22369
+    },
+    {
+      "path": "pt-br/games/marvel-rivals/index.html",
+      "sha256": "4bca830c152deab3a314b8b264d2f25b280276c85b60c9f1b604eeb413962a37",
+      "bytes": 11719
+    },
+    {
+      "path": "pt-br/games/minecraft-java/index.html",
+      "sha256": "92de4a0fa9796254ed84ee3e9786a95f628473eb37089442214a52297022a74c",
+      "bytes": 11652
+    },
+    {
+      "path": "pt-br/games/red-dead-redemption-2/index.html",
+      "sha256": "76cd99033a0ea44624dcdad270d12b7a1115ea09c5b330413972272ce5423e39",
+      "bytes": 12032
+    },
+    {
+      "path": "pt-br/games/star-wars-jedi-survivor/index.html",
+      "sha256": "9a74c37b7b9a21574f93e712be25b7e33eea9715451824081fc90e579f1acb60",
+      "bytes": 12114
+    },
+    {
+      "path": "pt-br/index.html",
+      "sha256": "cd56474165d8cf775c2acba9dd0cdc73597d846c1c1d31986fc2a378f044c520",
+      "bytes": 23389
+    },
+    {
+      "path": "pt-br/leave-review.html",
+      "sha256": "fefc60c10765e516360ac916cefdabb86c5fec90f069ff8ee49c3a5acbbd09f5",
+      "bytes": 10071
+    },
+    {
+      "path": "pt-br/privacy.html",
+      "sha256": "7a8ac8162c9dbb1ca4e80048e65f35b117aca2716d7b71a60bb736ebe2bf2744",
+      "bytes": 9504
+    },
+    {
+      "path": "pt-br/reviews.html",
+      "sha256": "7ff2adc3a6636b88ed7126e022c3ff2ef7f6daadf1bca6ebae2e4bc6c992d320",
+      "bytes": 8241
+    },
+    {
+      "path": "reviews.html",
+      "sha256": "3912b87af60ec8b49dba3e2018b4016d4375585df8dbdab54e6293ff3bbdd746",
+      "bytes": 7929
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "11f7d6a9b91fd1362ab5251b8dcc54d22581c441063235831ed146b2da4db6bb",
+      "bytes": 244132
+    },
+    {
+      "path": "tr/404.html",
+      "sha256": "f0923a98c2dbae581b709bf5a8b07f4bd548f05dddc9ba7da2634002674c713d",
+      "bytes": 7063
+    },
+    {
+      "path": "tr/changelog.html",
+      "sha256": "80d264700e13c362014bf01ab88b477a8dddd59efc1e9bf54fb9f402a238a87d",
+      "bytes": 7840
+    },
+    {
+      "path": "tr/contact.html",
+      "sha256": "42268ff95c4f140f4cff7503224b618ccc04781a25ad46b483a2da3adc8c1dbe",
+      "bytes": 8063
+    },
+    {
+      "path": "tr/download.html",
+      "sha256": "2a71cafff6477fbd2de43d8bf6b8dd5707753bdf06627071e7e7e6ef6e36e5ee",
+      "bytes": 7717
+    },
+    {
+      "path": "tr/faq.html",
+      "sha256": "30dbacd4a94d6987744c3b099a1a20373f12549d05be93787b28aea9c23b3e3b",
+      "bytes": 7607
+    },
+    {
+      "path": "tr/games/ark-survival-evolved/index.html",
+      "sha256": "3182c8449ac46858e455c265407a83b3bca9a4699527ad8a0b8f0c5a5989965d",
+      "bytes": 11788
+    },
+    {
+      "path": "tr/games/baldurs-gate-3/index.html",
+      "sha256": "c93a4cc938b9a72ecc7b004f029f3846611c773e989fc09c76e13d78cd5a4968",
+      "bytes": 11514
+    },
+    {
+      "path": "tr/games/batman-arkham-knight/index.html",
+      "sha256": "5df16c86a1b7f019690ee2413b17e14e086a451c4fe5ca36e94e4603ec70b53d",
+      "bytes": 11759
+    },
+    {
+      "path": "tr/games/borderlands-4/index.html",
+      "sha256": "27eea605939843cbe7fe6e4e90d4d69638ac6347cbfc056eb7375bc29b742660",
+      "bytes": 11712
+    },
+    {
+      "path": "tr/games/cyberpunk-2077/index.html",
+      "sha256": "b93505d21a95d3d1f65a49e9dd0b66b46cf66cc2389fae3253b3ae451cfed0cb",
+      "bytes": 11587
+    },
+    {
+      "path": "tr/games/dragons-dogma-2/index.html",
+      "sha256": "c33e4a704a8ad68f32d70c1220b1c4702909963d352bdac2f6a74260a4db54b6",
+      "bytes": 11544
+    },
+    {
+      "path": "tr/games/elden-ring/index.html",
+      "sha256": "ae4e1210e70249cbe4398c1a12b4460e1292dd6abe7973ba7f34334db5534af4",
+      "bytes": 11334
+    },
+    {
+      "path": "tr/games/grand-theft-auto-iv/index.html",
+      "sha256": "17503ea5faebb2a96f16e8a9b30ad329245ddea02eec47aef0b1d85bb87f9510",
+      "bytes": 11966
+    },
+    {
+      "path": "tr/games/index.html",
+      "sha256": "397db5d7bdb4b064033792ad09076343704ab72c94a3f6421a1529f356bde0cd",
+      "bytes": 22220
+    },
+    {
+      "path": "tr/games/marvel-rivals/index.html",
+      "sha256": "217d77230fc316c5b4109a4beefcd27c5f35695b25d70cb62583e434b3ecad8d",
+      "bytes": 11512
+    },
+    {
+      "path": "tr/games/minecraft-java/index.html",
+      "sha256": "396d54c2cca813f2522d496bd7b2d2a6dfcd684518673db115f86326bf0334da",
+      "bytes": 11436
+    },
+    {
+      "path": "tr/games/red-dead-redemption-2/index.html",
+      "sha256": "fef410e5fde709c7d4411c6e38a4a25cc2644a36259414560fff110bed7406c8",
+      "bytes": 11818
+    },
+    {
+      "path": "tr/games/star-wars-jedi-survivor/index.html",
+      "sha256": "f2c3c13ca81ca991665db6d790498e14279e24e377d82504756547b50c8022a8",
+      "bytes": 11934
+    },
+    {
+      "path": "tr/index.html",
+      "sha256": "d5a30c0b9f49ae5b412ffbd93df892797deed15acd2ebe0d7fde7ff456ace1cd",
+      "bytes": 23390
+    },
+    {
+      "path": "tr/leave-review.html",
+      "sha256": "b91686645d812a451de2cb9f3d52dce8f766803e5bb2da10b27c299ff9944e4b",
+      "bytes": 9908
+    },
+    {
+      "path": "tr/privacy.html",
+      "sha256": "b0d028b5311ef32a74eb23f451399c299cb9c217e2075100237ef06029fd7bd3",
+      "bytes": 9335
+    },
+    {
+      "path": "tr/reviews.html",
+      "sha256": "aa4770559af5b4feb61fe63927d8601fe137286b88efe3e773b056ccf99cad2b",
+      "bytes": 8197
+    }
+  ]
+}
