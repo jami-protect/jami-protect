@@ -1,4 +1,4 @@
-/* JaMi Protect V6.9.0 — exact-ID portrait cover resolver */
+/* JaMi Protect V6.9.1 — exact-ID portrait cover resolver */
 (function(){
   const portraitUrls=appid=>[
     `https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${appid}/library_600x900_2x.jpg`,

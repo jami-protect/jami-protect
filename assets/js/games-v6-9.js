@@ -1,4 +1,4 @@
-/* JaMi Protect V6.9.0 — game library search/filter */
+/* JaMi Protect V6.9.1 — game library search/filter */
 (function(){
   const search=document.querySelector("[data-game-search]"),cards=[...document.querySelectorAll("[data-game-card]")],filters=[...document.querySelectorAll("[data-game-filter]")],count=document.querySelector("[data-game-count]"),empty=document.querySelector("[data-game-empty]");
   if(!cards.length)return;let active="all";

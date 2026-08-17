@@ -1,4 +1,4 @@
-/* JaMi Protect V6.9.0 — accessible progressive-enhancement runtime */
+/* JaMi Protect V6.9.1 — accessible progressive-enhancement runtime */
 (function(){
   document.querySelectorAll("[data-current-year]").forEach(e=>e.textContent=new Date().getFullYear());
   const toggle=document.querySelector(".nav-toggle"),nav=document.querySelector(".nav-links");
@@ -24,3 +24,8 @@
   const cards=[...document.querySelectorAll(".pressure-chip")];
   if(cards.length>1&&!matchMedia("(prefers-reduced-motion: reduce)").matches){let i=Math.max(0,cards.findIndex(c=>c.classList.contains("active")));setInterval(()=>{if(document.hidden)return;cards.forEach(c=>c.classList.remove("active"));i=(i+1)%cards.length;cards[i].classList.add("active")},3000)}
 })();
+
+
+/* V6.9.1 language menu behavior */
+document.querySelectorAll('[data-language-menu] a').forEach(a=>a.addEventListener('click',()=>a.closest('details')?.removeAttribute('open')));
+document.addEventListener('click',e=>document.querySelectorAll('details[data-language-menu][open]').forEach(d=>{if(!d.contains(e.target))d.removeAttribute('open')}));
