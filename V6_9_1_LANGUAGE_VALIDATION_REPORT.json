@@ -1,0 +1,33 @@
+{
+  "build": "V6.9.1",
+  "languages": [
+    "EN",
+    "NL",
+    "DE",
+    "FR",
+    "ES",
+    "PT-BR",
+    "PL",
+    "JA",
+    "TR"
+  ],
+  "html_pages": 198,
+  "route_groups": 22,
+  "pages_per_language": 22,
+  "new_localized_pages": 110,
+  "localized_game_profiles_total": 108,
+  "internal_refs_checked": 8376,
+  "missing_internal_refs": 0,
+  "sitemap_urls": 189,
+  "expected_sitemap_urls": 189,
+  "js_syntax": {
+    "config-v6-9.js": true,
+    "review-form-v6-9.js": true,
+    "games-v6-9.js": true,
+    "site-v6-9.js": true,
+    "covers-v6-9.js": true
+  },
+  "old_v690_asset_refs": 0,
+  "errors": [],
+  "final": "PASS"
+}

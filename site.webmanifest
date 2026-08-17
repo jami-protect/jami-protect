@@ -8,7 +8,6 @@
   "display": "standalone",
   "background_color": "#070b10",
   "theme_color": "#070b10",
-  "lang": "en",
   "icons": [
     {
       "src": "/jami-protect/assets/branding/jami-mark.png",
