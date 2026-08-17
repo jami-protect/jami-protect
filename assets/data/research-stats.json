@@ -7,5 +7,8 @@
   "games_researched": null,
   "validated_transcripts": null,
   "last_export_utc": null,
-  "note": "GameKnowledge can overwrite games_researched, validated_transcripts and last_export_utc when the website exporter is connected."
+  "note": "GameKnowledge can overwrite games_researched, validated_transcripts and last_export_utc when the website exporter is connected.",
+  "site_build": "6.9.0",
+  "registry_version": "6.9.0",
+  "last_export_date": "2026-08-17"
 }
