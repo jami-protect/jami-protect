@@ -1,15 +1,20 @@
 {
+  "id": "/jami-protect/",
   "name": "JaMi Protect",
   "short_name": "JaMi Protect",
+  "description": "Hardware-aware Windows gaming analysis, game research and rollback-aware recommendations.",
   "start_url": "/jami-protect/",
+  "scope": "/jami-protect/",
   "display": "standalone",
   "background_color": "#070b10",
   "theme_color": "#070b10",
+  "lang": "en",
   "icons": [
     {
       "src": "/jami-protect/assets/branding/jami-mark.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "html_pages": 88,
+  "internal_refs_checked": 2846,
+  "missing_internal_refs": [],
+  "old_asset_refs": [],
+  "games": 12,
+  "steamgriddb_ids_present": 12,
+  "steamgriddb_ids_unique": true,
+  "game_detail_pages": 48,
+  "game_details_with_performance_map": 48,
+  "game_hubs_with_search": 4,
+  "localized_404_noindex": 4,
+  "review_consent_pages": 4,
+  "privacy_policy_pages": 4,
+  "cover_header_fallback_removed": true,
+  "javascript_syntax_failures": [],
+  "pass": true
+}
