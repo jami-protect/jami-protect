@@ -1156,3 +1156,46 @@ button,input,select,textarea{font:inherit}.nav-toggle{border:1px solid var(--lin
 @media(max-width:420px){
   .mobile-language-dropdown .language-dropdown-panel{grid-template-columns:1fr}
 }
+
+/* ========================================================================== */
+/* JaMi Protect V6.9.3 — low-height desktop hero / fold hardening             */
+/* Keeps primary actions + trust proof visible around 1280x720 without       */
+/* changing the normal 1550x920 desktop composition.                          */
+/* ========================================================================== */
+@media (min-width:981px) and (max-width:1440px) and (max-height:800px){
+  .hero64{padding:42px 0 38px}
+  .hero64-grid{gap:42px;align-items:center}
+  .hero64 h1{
+    font-size:clamp(44px,4.8vw,60px);
+    line-height:.96;
+    margin:16px 0 16px;
+  }
+  .hero64 .subline{
+    font-size:16px;
+    line-height:1.5;
+    max-width:680px;
+  }
+  .hero-actions{
+    margin-top:18px!important;
+    gap:8px!important;
+  }
+  .hero-actions .btn{
+    min-height:40px;
+    padding:0 11px;
+    font-size:10px;
+  }
+  .hero64-proof{
+    margin-top:13px!important;
+    gap:6px!important;
+  }
+  .hero64-proof span{
+    min-height:39px!important;
+    padding:6px!important;
+    font-size:9.5px!important;
+  }
+  .product64{min-height:480px}
+  .product64-window{
+    transform:rotateY(-3deg) scale(.92);
+    transform-origin:center right;
+  }
+}
