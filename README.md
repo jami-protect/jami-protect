@@ -1,35 +1,37 @@
-# JaMi Protect Website V6.9.1
+# JaMi Protect Website V6.9.4
 
 Production multilingual GitHub Pages build.
 
-Languages:
-- English: https://jami-protect.github.io/jami-protect/
-- Nederlands: https://jami-protect.github.io/jami-protect/nl/
-- Deutsch: https://jami-protect.github.io/jami-protect/de/
-- Français: https://jami-protect.github.io/jami-protect/fr/
+Languages: EN · NL · DE · FR · ES · PT-BR · PL · JA · TR
 
-Build: V6.9.1 GAME INTELLIGENCE FOUNDATION
+Build: **V6.9.4 SEO HARDENING**
 
-## V6.9.1 highlights
+## V6.9.4 highlights
 
-- Central `assets/data/games.json` registry for exact game identity, Steam AppID and pinned SteamGridDB game ID.
-- 48 localized game profiles generated from one registry instead of hand-maintained copies.
-- Searchable/filterable Games hub in all four languages.
-- Portrait-only Steam cover resolver with local portrait fallback; landscape `header.jpg` fallback removed.
-- Mobile language switch, keyboard focus states, ARIA nav/mode state and reduced-motion handling.
-- Progressive reveal enhancement: content remains visible when JavaScript fails.
-- Localized/noindex 404 pages with validated internal links.
-- WebSite / SoftwareApplication / VideoGame / Breadcrumb structured data.
-- Web manifest integration, theme color and touch icon.
-- Review publication consent plus copy-to-clipboard fallback when `mailto:` is unavailable.
-- Expanded privacy information for GitHub Pages hosting and review/contact flows.
-- Legacy V6.6–V6.8 production CSS/JS removed from the release bundle.
-- `tools/validate_site_v6_9.py` validates internal links, game registry integrity, accessibility-critical pages, cover fallback policy and JavaScript syntax.
+- 198 HTML pages total, with 189 canonical/indexable pages and 9 localized `noindex` 404 pages.
+- 108 localized Game Intelligence profiles (12 games × 9 languages).
+- Exact reciprocal hreflang matrix: EN / NL / DE / FR / ES / PT-BR / PL / JA / TR + x-default.
+- Localized JSON-LD URLs and BreadcrumbList paths; no English URL leakage in localized game/library structured data.
+- Search-oriented but evidence-safe game titles such as `PC Performance & Settings Guide`; no unvalidated “best settings” or FPS promises.
+- Game meta descriptions include exact engine/renderer and research scope.
+- Each game profile includes an additional visible research summary derived only from the central game registry.
+- WebSite, Organization, SoftwareApplication, WebPage, CollectionPage, VideoGame and BreadcrumbList structured data where appropriate.
+- Complete Open Graph plus Twitter Card title/description/image metadata.
+- `robots.txt` allows crawling and advertises the canonical XML sitemap.
+- XML sitemap lists only canonical/indexable URLs and includes reciprocal hreflang alternates.
+- `assets/data/seo-lastmod.json` plus `tools/build_seo_v6_9_4.py` preserve `lastmod` until SEO-significant page content actually changes.
+- `tools/validate_seo_v6_9_4.py` validates canonical URLs, hreflang, Twitter metadata, JSON-LD locale integrity, 108 research summaries and sitemap parity.
+- Google Search Console and Bing setup instructions included; no fabricated verification tokens.
+- Optional manual IndexNow workflow included, but it sends nothing until a real key file is deployed and `INDEXNOW_KEY` is configured.
+- V6.9.2 compact 9-language selector and V6.9.3 low-height hero/fold fix are preserved.
 
-## Validation
+## SEO validation
 
-See `V6_9_0_VALIDATION_REPORT.json`. A passing release currently validates 88 HTML pages, 2,846 internal asset/navigation references, all 48 localized game profiles and all 12 pinned SteamGridDB game IDs.
+Run from the website root:
 
+```bash
+python tools/build_seo_v6_9_4.py
+python tools/validate_seo_v6_9_4.py
+```
 
-## V6.9.1 language expansion
-Public locales: EN, NL, DE, FR, ES, PT-BR, PL, JA, TR. All 22 routes are generated for every locale with reciprocal hreflang links.
+See `V6_9_4_SEO_VALIDATION_REPORT.json` in the patch/release for the validated build counts.

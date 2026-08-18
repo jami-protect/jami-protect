@@ -1,0 +1,762 @@
+{
+  "schema": "jami.seo.lastmod.v1",
+  "generated_at": "2026-08-18",
+  "pages": {
+    "https://jami-protect.github.io/jami-protect/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "5d0936c60b31756569f3746a77edf86330e15fabcbd79be32836a85e1bf0637f"
+    },
+    "https://jami-protect.github.io/jami-protect/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "f0eedeba6accf98243800e2de403d0a0f21ec6bfade9d495c48d9182bf30dae6"
+    },
+    "https://jami-protect.github.io/jami-protect/de/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "38e7d8d096b81128ac5483157d1777fae382fa23cf46c57450eb51ec6460e52f"
+    },
+    "https://jami-protect.github.io/jami-protect/de/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "0d46e907dde4e445c746f6c96fd67d0cc60a345fb20dd402130b675ed49b7723"
+    },
+    "https://jami-protect.github.io/jami-protect/de/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "a08b21222bf6b1df2e023a9c911fca4aab91419485791c3b83226468d08b5656"
+    },
+    "https://jami-protect.github.io/jami-protect/de/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "5cd3f70a399663bd11bee498d7a4bc1f1261dc720815a707cf82b9746c6e5549"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "fea5024c0fe5784ca573a21a6c08741ba113d9fde6cd4cf3ad16bd6252869225"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "8a3d669d8f5e5d6f49d5fa9ba8a864f728b4eeb22002bd84f5b3ddc6729681fe"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "ba7ba269c5b171ccb54dbaef6def6ffb1b66829be33e324bae1ffadfde3d6d65"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "8d7b8199956d42efc3d74f28b399a39c1bf5cc91b679dc62a23cc3426e53a470"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "e78897e07ab14f6fe124392f91e67fa991a19e50582bad0d24a88bdd09f894d6"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "7fdc598138c0366a35b751c14668adf50649e7b2559e74cb47bed3f2d02b68bf"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "d5ffafa428cee1012148366d0e98e650f40730bba1184997b7d5bad79819eca0"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "81d291f863606cb794c77e7d3241a8459f8b5d09fdb666b157e6fb3752ec9dab"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "85fddef67a36e2c769b233f20dfc0d957e4e6b53949098a3dd8ad42758fafc3b"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "eb55dfbfbb7794171d706c3b2c264b57f27e7c021d22bd76be0ea273d2e0c3ef"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "eddd4720de4f01fe49b075db752c3eca736dd0969690c55a048a2b1de7067254"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "1ab8abe7e6829339800ed4e2071bc26647e2e31f0b3834ecd50e0093d211e8c1"
+    },
+    "https://jami-protect.github.io/jami-protect/de/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "f101c6fcbff790b93d35e2330ccbadd129a3ecfdbadfe3cb8ec4fe33acc9878f"
+    },
+    "https://jami-protect.github.io/jami-protect/de/": {
+      "lastmod": "2026-08-18",
+      "sha256": "769664b6300d8e1a9cf86701b66945670d1b046b9eb72e1697fc7f055cc3095b"
+    },
+    "https://jami-protect.github.io/jami-protect/de/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "163f3ab97b4b2131e543d70da25479db4fe1cff8be569089733fe8b5a068f31b"
+    },
+    "https://jami-protect.github.io/jami-protect/de/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "61d195bb1ac25d9634a72f897ca1b4e258a034a53521e054b38b9479237a10fd"
+    },
+    "https://jami-protect.github.io/jami-protect/de/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "d69335f442fb21e55e81007f4a4e9f52f30ef23ef58eaf1367bdf9a85d4c811b"
+    },
+    "https://jami-protect.github.io/jami-protect/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "012d8ff588f70bed38be86fbc3252dbb82a6c6712684ad8a7e1eb6fa807f3bf8"
+    },
+    "https://jami-protect.github.io/jami-protect/es/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "f9a85574d0268fec4a5262f176cdd10bf6893cd8a5cf15ad99c4e4bc78eedb09"
+    },
+    "https://jami-protect.github.io/jami-protect/es/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "57508b2f3d7c074ce5c28f187f16a2b57b64383db1cb1755c29e1af0f46fb269"
+    },
+    "https://jami-protect.github.io/jami-protect/es/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "3f48d621f39b5bb3b388f7170fc741d9871f6e91d1e6e43ba8e3bdf544df3883"
+    },
+    "https://jami-protect.github.io/jami-protect/es/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "e144b125bc0255675ae1e52bcf32e7741d8da091d2beab80f3231c1c4cbe7231"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a0d0984f485aa77e8a6e45f8a5024c0477eea09d5c8b8220943e8f5c6f034ff6"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "f3e6cd8b2b9bb6878d5ae6b6579d5fed78da17d2d85e3f638ffdc7415c47a879"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "4dca03fa168400be8b15c34382827c2de22bf9ff4956af8df4f0243db246471a"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "42f64b83396f83cfc707c4d6fba1792d059887224d6d6b688094fa88757af88b"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "e41ddf5626366d1ef32d8382e8b01cb3339d1d12fabbe14401f2e1d58fd433af"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "7b1b7bd94e9131066cead752d8984db3f065ebcd4c046d66e99e0c0bfadc24c1"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "bffc64ee45706fe2e64a992fef057450cb525ba2564a91e0fcfa4645aa39144e"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "07efd87c4b5e592ac1f500715ba6cddda9204383f9427c277502b821c0d9f895"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "f1f33841fd2eb3352148596eacb8f8728af097cf512ae70f77f1320bffac3320"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "faa496d7f29de129663c34efbb776ca2d6077618527ff6ae84ca7bb7cb547c88"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "7180e4400a8deaa78fde42a5d04a07bcee1a33b8febbc5689fe28218c10a207a"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "cef79ca962e170de73fcd782ad10f432e0425a54e1409cd4d24bba0fc1ebb3c3"
+    },
+    "https://jami-protect.github.io/jami-protect/es/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "2705a21ded5ec9689f1e1cd0a6f261391286d786e0bdc34c3de436d06ce9a4a1"
+    },
+    "https://jami-protect.github.io/jami-protect/es/": {
+      "lastmod": "2026-08-18",
+      "sha256": "fd79e913d0479984fc4a55460d6162052eeb221b010aee11d9c26cbd8bed1f6e"
+    },
+    "https://jami-protect.github.io/jami-protect/es/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "ea9817a6c1da0bbc8aca8095829936d10fa5b0161234eecf6318e455dc4fcdb8"
+    },
+    "https://jami-protect.github.io/jami-protect/es/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "531add0d28f5860765f0cdf78ff43fc00fd24dba779f27d5722f2d23e531f96d"
+    },
+    "https://jami-protect.github.io/jami-protect/es/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "3c33060d4bc9559750392998ac35c177da8cc37e6cce2b2b7a972cbae670a5fc"
+    },
+    "https://jami-protect.github.io/jami-protect/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "442222cb8995ab44c4478041a594e33e35860812df1d2198a9c7d40f95274814"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "feb79288db3f08b1a038390f6d58969d6e0ab21f179e93af31d3c25a5937cdab"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "c3030b3fda1d16e25bbcc163d407cc6ab489b5de2539ae50b2584d251d7a7cd9"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "9b67822b9533f08cd72810ca30228f87fcc0f1f2172037739fdbd649a5cbe5b7"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "cf8458b03c9fcdf946da52eb19b235c6d791fe1780ca006c621052987e51c65c"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "d13e033befe70604e1dc33ea180f941fc901dbee4ca27644bf0fad1197776a7b"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a074d82ed241e5946902255eb2d7abbdb8260c9bd450f39ef0dd3e7b4ba0663d"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "c2d42697d88accc64bd8911d291a747db2274345c09ef965b02ad6742a21a9b1"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "13a36009d964b5c35d84ff8cb5a66ff73f755e85937c9cfc0bfc061893dc4a1f"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "12f2b525a1ae0f86158bf84e7f908efab376875346a2bf932330448ed4dfcf41"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a1f5b6309970d27f4897b3ba5c08e400552a991fd5591dc4a1735ff3f0cdc60c"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "5c9f7a4b8893347ca1b6c4132cf65a5623f6c057b214b48be901dc96be1da53f"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "e7bcece429443b4dde90cdf3bbc6d2fd4e00d97660bbba0fc4abb19f24cee98d"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "06c6e78f36b316ada02db323417b2ee9cd543c941c8a33bf3c33e269e0e16b82"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "c3e88c3c6a8ef2531c136bc4b9849d0780cf444df7017ab92487b9511ee676d2"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "f4232325c3aac5b2780c60ae5eb5397956a20a7ea24a92f355ce6d059ea187de"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "22fb57b6e0271055d17a75bee2fc11e0fb0e3e36604798426244941b0fb18327"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "90a06866e195a62fb30b2c0798ab16f035c79521d836bbce6f5f38bb1a235b5a"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/": {
+      "lastmod": "2026-08-18",
+      "sha256": "056381d760f5624cf19c418c079f5a4c0fc0760e2070188fbee3a3838c37822e"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "1ddd261fc7e24d27c9454c87a6dc6365c4baa15d7a7b057357b1823dd9713772"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "60c52c394987484e9baad9193d3d57ed4e36ede662beb95e0f44d994aa5f8a40"
+    },
+    "https://jami-protect.github.io/jami-protect/fr/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "aa85971737acef78c8e5ebc1222d0446589e1acb322b0547774ed06715f3ed1f"
+    },
+    "https://jami-protect.github.io/jami-protect/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "3abddeb18bbd5cf7e80cd83137ba1e619ccd64b3c72e3f9da3d77749a1ae0624"
+    },
+    "https://jami-protect.github.io/jami-protect/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "83a3b3bd64a9b50def90b05a61045300492b46b104b06d25539e75ab9812e73b"
+    },
+    "https://jami-protect.github.io/jami-protect/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "b06d87aada163625fa979d5d18ab40c499b0a1e20cbf3340b970a3408466ae99"
+    },
+    "https://jami-protect.github.io/jami-protect/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "e2e10c4adc4bc6ed4fa2553d945b98c45f10b6bdb8c1c227a48018dd76d300a9"
+    },
+    "https://jami-protect.github.io/jami-protect/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a42edabe8c1eb445af30bd644ffc8c9de793516dc427e00e225d0b79910eb937"
+    },
+    "https://jami-protect.github.io/jami-protect/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "1be159d66695f85f18c672ef3d939b639be135a62c058616ff6dfaeef3ffd0a0"
+    },
+    "https://jami-protect.github.io/jami-protect/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a9577355b5bbdd27aba6bfcfc0dcbf56c1b9de6d073cf3a8c960f8bf9ab6ad30"
+    },
+    "https://jami-protect.github.io/jami-protect/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a91b3174bec1a61fdf1f3a90abcc93a5125513248b442d23d41fc162b1a5e5a0"
+    },
+    "https://jami-protect.github.io/jami-protect/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "ec04e7f55839a14574082bac24302b629cdee4882a61823d2ebe8e305ad4b417"
+    },
+    "https://jami-protect.github.io/jami-protect/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "4cbef82b8392d8834c337392178798e410d9a62be017d5606138189be9795d13"
+    },
+    "https://jami-protect.github.io/jami-protect/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "d66981dcee309b5d0a39fb9b11832e76482b1c1be952843bbb6cd0dd1a385684"
+    },
+    "https://jami-protect.github.io/jami-protect/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "75dc86e7e5443bf67ad8e053583e3c9b1a8f5f04826705d62fedc43c682a21c5"
+    },
+    "https://jami-protect.github.io/jami-protect/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "8924c62853b329fd1a4bfb6a86fdf4bd6a71dd8af8133a63ac2efff14c0615ae"
+    },
+    "https://jami-protect.github.io/jami-protect/": {
+      "lastmod": "2026-08-18",
+      "sha256": "90924fef2037a6e0eed8da076db1fa64627f5a6f9e2acf21de6c4d9a64a08285"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "ea0d864799825148c5edf955bc64c6ac7b87ffbfebbeb6459828bcf308acf7d2"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "765bb272eea94c4165507e460cbf7aff9225e32f732051aaff0aa5590634735e"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "a7d4bbeeac5215d14d02064fddcd25fa718b1ce1cf69bd14081fec565ff539d0"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "206c3820fe491756a27d79651dad50c2dad76e17427c3f2e88180bca4bdb8f8c"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "0fc704f03f65f6302118c7ad2ff0245c9cf94ae000041f7a06e67273f3b753e1"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "3f9d19c93dd5087139dd45e2aff9a4eeea0455579f1b1d188fba1689ee77f9ae"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "6fd7f28a4277f26266f0e9911b4ed3c12e8e971b5ca8d7427a5c70ed6ac026b5"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "9ac3d4a2ed769403d788fe4f0bff95328ed2dcb4c502d023423a624ab7cb9720"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "f43b56b67d7e4bf218959d4ecc8745fc081cc81436932ff37f36c422bdb818d4"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "c96a0ee97dcea7f92ce4f23a9c97e8f0e11a0f5c40d4f54fb50a51c557ddd9f7"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "f6962b95a0e09ea1059cfae1febc6290e033c3c5a954fb4e96cde39059662779"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "b4e171edcf5c83861f12f2cf5fbb8620346365995187bd359b3498f4dfdc1629"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "b13da921b26d78c55e515ef5a56c68f73f2d473cf73e6ccf627f7d01e1e9a506"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "ff2e99c5f302f22c77e8b485f07077b2a26e32752859fec07c235b2ebb65d5b8"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "7500c400f13c821fd3138c57c9e1cd4fb0ea4b6cfbee05e622c4f8fe04ff8f76"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "80f28efaeb29517ffd3ec24e1a8f5c28fe5ccbcc2b694b43a69023d2554b32d3"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "67bd438dbcc7ea35d7aacc0d2c966df8c669c96629f0506cd496538b98e06708"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/": {
+      "lastmod": "2026-08-18",
+      "sha256": "922761ad48a92af5259ff5ff9e385dbb0563d0cc73bfc899f4a838a13626c74d"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "3c142e2113185f1069e1fa9b38c396148e7895be5c18fabb1bedeec36c0e74d0"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "82398cfc8338939b07b1e9f51e02153c987297a5262416f9528b270690ff43eb"
+    },
+    "https://jami-protect.github.io/jami-protect/ja/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "6f1901c740c3fb94d41687f18d45a0307087acf4a4fc9fabced7ec44a35ced74"
+    },
+    "https://jami-protect.github.io/jami-protect/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "041b8b2a1fae601e327223ca5b5624543c208366a00c97632f7fc00c20309a1e"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "9bd84bba173fadf8261b0aada219b17f776c9f8c2fa2f96648402cc658ae7d1d"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "5b940ef9e0bc6e9b190ae57483d14eddb6f84891483b00fd602f51cf23efb5f9"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "918e966a459bdc90527b8f70b907ee8986d030bcbe393816ce5cee790bc57822"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "d104a945348c62378f649977a686a5a31294e49a01068a160145b059b923ddf7"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "98bfb4214a9807b6517dd24f15a53fd9aa0f3f570f7f400a6c20da4e5b6ba377"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "7ba2b44f965fca8d185d78dfd48a5701e9e178cc4384affed693a68e7960bb0e"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "54572e6b37e780c1b4f5e2196236b49847704c2b50f3493ff522cb6a782ccc6b"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "42a28955369e6dab34cf92e5ae8b9530ace3231a776f2b99fffcccdd76f27890"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "2d18489aa813ee55da18b72b702404a80571197528705822f63f3fc8ef2165ac"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "4733d11864ed7264cdd35ddc2d54f8b390418c613ebeea40cf694bfdba0cf34e"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "64b9be22d1cfbcc3b42006490db21b461a70ae7fcdc6652f06502f8cb99bf2f0"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "df6d68666da148d5ed4e32ff15ce3cbb9708505f056f0831029ccd0c35eca503"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a68277bb590fa9b9d2498e221fb43658df2d4a88d6ac30480c0b73caade4252b"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "157ba0e1cb217cc2813fca00deb8714f93f2e48c3b36f70acedd339c062cb1d6"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "9a5791fdb2bd366764738f24427c46fa23cc6114adfc61cecb80f4fd123ed309"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "4c0bf85a0087747cb6ceabf5421e5c5175c6f8e2714586e3bcbe0fd3da7c1c1c"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a70b8a65ce7c0a1cb13b24eeaf18c87b357e295abb21e54657687f76365805f1"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/": {
+      "lastmod": "2026-08-18",
+      "sha256": "7e98503a9b89618995028d6667dd851e40b04502586cdf245c5019d696fa38b0"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "b3f653b0672f8d16dc8785d34f1fa735d8dc2f45dbeb795f0b770709c129df5d"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "a07181301b84fb5d337bb27d924d1d3708d5254e5e78e8d8b9e380566f566da7"
+    },
+    "https://jami-protect.github.io/jami-protect/nl/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "55d72fffab660eb110a967fa9dbb399494c248916742966620e85d9f502f893c"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "6fa2a450c4aacad0343fcf7f1de554f98d8a246459d47f1e0869099a07be8fb4"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "c564569fc05ccbaa328b1a8d5f6229f807f3eb4d26a08aaa30207326c39d80ff"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "400e349b8b74672f867bf2e35ac4b8a0912716963943642403be2b4c46b6ef69"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "7998629c8b68e68a7072d68a99555da02b0e1db2fa0a419a5ebc95c62f6e9290"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "49a3da892abf8b5e7d043faf92a6916da2fc2df01259c406581d525cbaafcb3b"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "f7ac99b801e8898d246c106f29e850ee5b05371bf6d9b61213fd3feda1bb9289"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "ee3884d2b31de04115a041a9a2006eb03cd5e23b3c90f550c89c4e1fc2da36bc"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "63e6c69f6d15736e05a01b27ff9b8b32c00eda2a8781860b1212a51f39749d54"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "90049d4978d346ff30e63b28c6097910e7d0a1e8cb2b4f903a78df344f9d7a43"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "b7516319dd6f582a4a25430555b2adf995d44dcd85adb832e4878c9455395442"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "b983f53c192ff3c5b790f9dc6037a01e55fa06cc988b354ab1d2c05e877cf7e4"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "2134225314c76bf5d5b5b3fb885ff94243f58f7c6734939a93f5a3ae382eb7d0"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "b37a6ebf7c05d3ebf0b6b4fdf929b57bd699852e7f62667533562caead1d5352"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a46d583ac42bea3b7222fdceff056a7b0cb0e3ed7eaa91e9ecb4b069c96cc159"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a6e8ecedcc3b526628516e5e9c9f5ce05ea88c3e6fbb0ce9a90a4bcdd9bd9872"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "ad4f4c7805f8a018973bbe4134e9ef68b09705a6f65e08ac41269b29cb6686c6"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "84fca4c6e47f6d096dabcc131796e200088a82a7179168782d09a038598f2016"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/": {
+      "lastmod": "2026-08-18",
+      "sha256": "6fb313b3e1015796f845bc789e0514287e8dc647d872ecf6a00e13add087e989"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "3e54f5e85f4510870dcd02d6bfc3ce022577e3063d80d5395d6aafcaa5c27d57"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "4524f8ee9b96a9a80df07256bbed6f88dc38350be1eef2a8284ce56b655bcd0a"
+    },
+    "https://jami-protect.github.io/jami-protect/pl/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "696371270bf05507af536860815bf95c7ed713dc152dccab683fe04fa9c9005b"
+    },
+    "https://jami-protect.github.io/jami-protect/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "f392a3b58f67480e0f311161bec58f86a71907f9a815b1de3a7f34f56329e2fa"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "b614bd50966951659e8afa8ce2208072696756f972f44685d5f12491bc93257d"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "53cc87e21dc864e0cc2013655e669adcd1b5b8bceae2ea0631eb8db1c0a6ec8f"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "e5f4998580338e4e297d91b0ca492cedca690b15e1c68636da635ffa93632a2f"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "010c5ff3b2d623e30062d7beebe2738ec7d8fa3cacd894dc256e57e8aa21ecb8"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "6bcce1020fe4bbe86a113ac8150f2ee43d333e6120cd090ad1a67241b9c7c63b"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "32bbf3f0cde35c8b58c84ce7951934bb2e737cbfcfad309585e7f72e8c58d845"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "2381ae028175486f7979830662ccbe343e6dd4b6c0e01b2ee0148a2e6381961b"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "126bd4811577e23fd8245ca86e5d534b164d80b567ba9b396d78ad29b1ff69ac"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "ba3cca17cc55aaac7ad1bc3aa0661e1cc8857b95b27dba31119ff13991048ff9"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "06f9f6790c04ce696cc71302dffdcfa9e4e614b9ba8e119945d96e5f12b90c29"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "5b4f35338fe43e0d10453bc366c63c859f79214f057c7621457c32118108c0e5"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "b2caed6758c273983a6ccc5ae05f4c0854be61b12c920012f88292d225e88667"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "b377bba9345694c71f4ee8f59e877fbb6d899f16441722d41b4817b4e86a8822"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "029dc612e756e4346c6ac7b7e47986e755c7e6d04cf668d60f74714b8cb91f18"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "8593fc3d1f2cae0fd87fbf19817d7d884a6d5c0480ad25b0853e3e485e1bcac2"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "dd62e5b5e09a45038c715d5336e94b3e05837f3d93fe660e5c78f5951ed40470"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "aac02158af89c4aa6c2114b4031e16c3c3d011666cdd6ff89faf16d5247d44e1"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/": {
+      "lastmod": "2026-08-18",
+      "sha256": "0b265cee18f86a08b76613cfcdcf616340c239e4bc388fb528aaf82bcd28082a"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "ad56ce53db1d3f7c5e076edeb3d07b5d9d57893c8840f57c439b91dd0d7d0dfe"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "f2a1af3174c85acab6e31d64f00e34b67ffe79fa175f3ae1720eddd697b0f73b"
+    },
+    "https://jami-protect.github.io/jami-protect/pt-br/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "071eb105fe29f2656bac266db9dc2d8e3ff17247aec9dfff621c20af432fb7cc"
+    },
+    "https://jami-protect.github.io/jami-protect/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "26ddcdccf385e367636b718db4b9ffba1a7274036ce74b2fa38fec91294f9480"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/changelog.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "8a971a83779705d2dd17fa800ebc1eb49cac1f51685a82f4cde9e83e992f9690"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/contact.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "ce7ed7bfe1882ae108f9780f4903d2180a1e7c53b8023a969b38ab33736a5e45"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/download.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "6508ad412128e6d381ce929f90d66b5ad6ad3750b1c0054336d85cdc79f1275c"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/faq.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "cee669c190260c3b5baa50e22550366cedbc562524d7a283c224d8a360d96edd"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/ark-survival-evolved/": {
+      "lastmod": "2026-08-18",
+      "sha256": "f6f6b378831904ebef2336042a1aa7bae72dc22ac83e347c5671588ffc0ffa3f"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/baldurs-gate-3/": {
+      "lastmod": "2026-08-18",
+      "sha256": "93ce5034f4aec671b709499d6e9a0884574117c7bc4089dc9c873bfd38c75abf"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/batman-arkham-knight/": {
+      "lastmod": "2026-08-18",
+      "sha256": "dcfa569b3049bc2196888627ddf8a47fa5940d9b93f08495a9af7321fb1db1c2"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/borderlands-4/": {
+      "lastmod": "2026-08-18",
+      "sha256": "a93d34738915fd0420e5407e526c428ad4dc960c2d5ea3f89644a1e3ef8cfcdf"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/cyberpunk-2077/": {
+      "lastmod": "2026-08-18",
+      "sha256": "eaeb26d8ff5ef254512e5b98d85dff3ab37db217e59b9eb825d59bdb4700d43e"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/dragons-dogma-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "53bde377c0bf7db7920ee3d78358edfc29b0f7e507220b9a15509ee6ace01e80"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/elden-ring/": {
+      "lastmod": "2026-08-18",
+      "sha256": "d5990c083cf33308bc2c2bdde0386b0c003616aae2721f0f818adcea28f18399"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/grand-theft-auto-iv/": {
+      "lastmod": "2026-08-18",
+      "sha256": "8e2811cf09420af3ebd403786d987dec19aeb155a68c9cf3b2fc4ca00aa36bed"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/": {
+      "lastmod": "2026-08-18",
+      "sha256": "47105e0a03d84e0d24094412df016de354634563f211620e281a9605653a8060"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/marvel-rivals/": {
+      "lastmod": "2026-08-18",
+      "sha256": "87c55aff533f3ed171c6f2cbff724f2db95f34c3517472ee04672831d67db9dc"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/minecraft-java/": {
+      "lastmod": "2026-08-18",
+      "sha256": "99d747a4987569f87f7c90250873d83e7d70b6eccea7a64ed4dd3dec409ccbda"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/red-dead-redemption-2/": {
+      "lastmod": "2026-08-18",
+      "sha256": "c75e9f081e4b5f5390307a2eaef0ec640af9d4a49add6869ff7f52fd5d9e44af"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/games/star-wars-jedi-survivor/": {
+      "lastmod": "2026-08-18",
+      "sha256": "947e00e08ba2f69d5f5931f1d2df8e1fa22208b2e16cb1308c113c1a56f56cbd"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/": {
+      "lastmod": "2026-08-18",
+      "sha256": "2d0d0aeef245d3be7cbc1314360cd817d2a56bc385302e675e1e61564784e6c8"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/leave-review.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "7ac430ff27ba5fe9a1217e834830a4184b81f90c4e5e76504200135c58d19ed8"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/privacy.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "05fddb41cd25fa11497fc47f5c15c67736defb132a273b10275c860e2df58737"
+    },
+    "https://jami-protect.github.io/jami-protect/tr/reviews.html": {
+      "lastmod": "2026-08-18",
+      "sha256": "170547c99a52a48110fb5ef766c8fc30b236fe974a39eb4827983d4f100c98bc"
+    }
+  }
+}
