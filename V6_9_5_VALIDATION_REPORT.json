@@ -1,0 +1,34 @@
+{
+  "version": "V6.9.5",
+  "name": "Homepage Copy & Product Positioning",
+  "languages": 9,
+  "homepages_patched": 9,
+  "new_product_flow_cards_per_homepage": 4,
+  "single_tester_numeric_score_removed": true,
+  "advanced_mode_replaces_gamer_mode": true,
+  "visible_crawlable_seo_language_removed": true,
+  "homepage_meta_social_jsonld_updated": true,
+  "sitemap_home_lastmod": "2026-08-19",
+  "universal_footer_tagline_preserved": true,
+  "language_dropdowns": {
+    "desktop_mobile": true,
+    "options_each": 9,
+    "pass": true
+  },
+  "internal_refs_checked": 8340,
+  "missing_internal_refs": 0,
+  "jsonld_parse_pass": true,
+  "css_brace_sanity_pass": true,
+  "v6_9_3_low_height_hero_rule_preserved": true,
+  "legacy_phrase_hits": {
+    "crawlable": [],
+    "Anti-snake-oil": [],
+    "Easy-lobby": [],
+    "3.6": [],
+    "No fake benchmark": [],
+    "Gamer Mode": [],
+    "Research-driven Windows gaming intelligence": [],
+    "No mystery boosts": []
+  },
+  "final": "PASS"
+}
