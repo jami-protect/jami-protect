@@ -1,0 +1,23 @@
+{
+  "build": "V6.10.1",
+  "status": "PASS",
+  "public_games": 50,
+  "existing_games": 12,
+  "new_games": 38,
+  "locales": 9,
+  "new_localized_game_pages": 342,
+  "localized_game_pages_total": 450,
+  "html_total": 540,
+  "indexable_html": 531,
+  "sitemap_urls": 531,
+  "hub_cards_per_locale": 50,
+  "homepage_featured_new": [
+    "ARK: Survival Ascended",
+    "Overwatch 2"
+  ],
+  "ark_steam_appid": 2399830,
+  "overwatch_steam_appid": 2357570,
+  "local_fallback_covers_added": 38,
+  "internal_missing_refs": 0,
+  "errors": []
+}
