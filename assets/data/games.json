@@ -1,20 +1,1759 @@
 {
-  "schema_version": 2,
-  "registry_version": "6.9.0",
-  "verified_on": "2026-08-17",
-  "cover_policy": "Exact platform IDs only. Prefer official 600x900 Steam library art; fall back directly to a local portrait asset. SteamGridDB IDs are pinned for identity validation and future curated assets; no fuzzy name matching is allowed.",
+  "schema_version": 3,
+  "registry_version": "6.10.1",
+  "verified_on": "2026-08-20",
+  "cover_policy": "Exact platform IDs where available. Steam app IDs drive official portrait art; every profile also has a local JaMi fallback. GameKnowledge canonical IDs are explicit and fuzzy title matching is not used for public identity.",
   "games": [
-    {"slug":"cyberpunk-2077","name":"Cyberpunk 2077","year":2020,"steam_appid":1091500,"steamgriddb_id":5209422,"engine":"REDengine 4","renderer":"DirectX 12","cpu_pressure":"medium","gpu_pressure":"high","vram_pressure":"high","stutter_focus":"high","features":["ray-tracing","upscaling","frame-generation","open-world"],"checks":["asset-streaming","background-cpu","vram-headroom","driver-game-version"],"settings":["ray-tracing","path-tracing","crowd-density","upscaling"],"local_cover":"cyberpunk-2077.svg","steam_url":"https://store.steampowered.com/app/1091500/Cyberpunk_2077/","steamgriddb_url":"https://www.steamgriddb.com/game/5209422"},
-    {"slug":"minecraft-java","name":"Minecraft: Java Edition","year":2011,"steam_appid":null,"steamgriddb_id":5248835,"engine":"Custom Java engine","renderer":"OpenGL","cpu_pressure":"high","gpu_pressure":"variable","vram_pressure":"variable","stutter_focus":"high","features":["modded","shaders","simulation"],"checks":["chunk-generation","java-gc","mods","background-cpu"],"settings":["render-distance","simulation-distance","shaders","ram-allocation"],"local_cover":"minecraft-java-official.jpg","official_url":"https://www.minecraft.net/store/minecraft-java-bedrock-edition-pc","steamgriddb_url":"https://www.steamgriddb.com/game/5248835"},
-    {"slug":"grand-theft-auto-iv","name":"Grand Theft Auto IV: The Complete Edition","year":2008,"steam_appid":12210,"steamgriddb_id":1361,"engine":"RAGE","renderer":"DirectX 9","cpu_pressure":"high","gpu_pressure":"medium","vram_pressure":"medium","stutter_focus":"high","features":["legacy","open-world"],"checks":["cpu-scheduling","legacy-compatibility","frame-pacing","background-cpu"],"settings":["view-distance","detail-distance","shadows","driver-overrides"],"local_cover":"grand-theft-auto-iv.svg","steam_url":"https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/","steamgriddb_url":"https://www.steamgriddb.com/game/1361"},
-    {"slug":"batman-arkham-knight","name":"Batman: Arkham Knight","year":2015,"steam_appid":208650,"steamgriddb_id":1947,"engine":"Unreal Engine 3","renderer":"DirectX 11","cpu_pressure":"medium","gpu_pressure":"high","vram_pressure":"high","stutter_focus":"medium","features":["open-world","streaming"],"checks":["asset-streaming","vram-headroom","storage-health","background-cpu"],"settings":["textures","shadows","effects","resolution"],"local_cover":"batman-arkham-knight.svg","steam_url":"https://store.steampowered.com/app/208650/Batman_Arkham_Knight/","steamgriddb_url":"https://www.steamgriddb.com/game/1947"},
-    {"slug":"star-wars-jedi-survivor","name":"STAR WARS Jedi: Survivor™","year":2023,"steam_appid":1774580,"steamgriddb_id":5330917,"engine":"Unreal Engine 4","renderer":"DirectX 12","cpu_pressure":"high","gpu_pressure":"high","vram_pressure":"high","stutter_focus":"high","features":["ray-tracing","streaming"],"checks":["shader-compilation","traversal","asset-streaming","vram-headroom"],"settings":["ray-tracing","resolution-scale","shadows","effects"],"local_cover":"star-wars-jedi-survivor.svg","steam_url":"https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/","steamgriddb_url":"https://www.steamgriddb.com/game/5330917"},
-    {"slug":"elden-ring","name":"ELDEN RING","year":2022,"steam_appid":1245620,"steamgriddb_id":5277816,"engine":"FromSoftware engine","renderer":"DirectX 12","cpu_pressure":"medium","gpu_pressure":"high","vram_pressure":"medium","stutter_focus":"high","features":["ray-tracing","open-world"],"checks":["shader-compilation","traversal","frame-cap","background-cpu"],"settings":["ray-tracing","resolution","shadows","effects"],"local_cover":"elden-ring.svg","steam_url":"https://store.steampowered.com/app/1245620/ELDEN_RING/","steamgriddb_url":"https://www.steamgriddb.com/game/5277816"},
-    {"slug":"dragons-dogma-2","name":"Dragon's Dogma 2","year":2024,"steam_appid":2054970,"steamgriddb_id":5406918,"engine":"RE ENGINE","renderer":"DirectX 12","cpu_pressure":"high","gpu_pressure":"high","vram_pressure":"high","stutter_focus":"high","features":["open-world","simulation"],"checks":["npc-simulation","asset-streaming","background-cpu","vram-headroom"],"settings":["image-quality","shadows","effects","resolution"],"local_cover":"dragons-dogma-2.svg","steam_url":"https://store.steampowered.com/app/2054970/Dragons_Dogma_2/","steamgriddb_url":"https://www.steamgriddb.com/game/5406918"},
-    {"slug":"borderlands-4","name":"Borderlands 4","year":2025,"steam_appid":1285190,"steamgriddb_id":5462355,"engine":"Unreal Engine 5","renderer":"DirectX 12","cpu_pressure":"high","gpu_pressure":"high","vram_pressure":"high","stutter_focus":"high","features":["ue5","dynamic-lighting","open-world"],"checks":["shader-compilation","asset-streaming","background-cpu","driver-game-version"],"settings":["shadows","effects","resolution-scale","lighting"],"local_cover":"borderlands-4.svg","steam_url":"https://store.steampowered.com/app/1285190/Borderlands_4/","official_url":"https://borderlands.2k.com/borderlands-4/update-notes/","steamgriddb_url":"https://www.steamgriddb.com/game/5462355"},
-    {"slug":"ark-survival-evolved","name":"ARK: Survival Evolved","year":2017,"steam_appid":346110,"steamgriddb_id":6511,"engine":"Unreal Engine 4","renderer":"DirectX 11","cpu_pressure":"high","gpu_pressure":"high","vram_pressure":"high","stutter_focus":"high","features":["modded","simulation","open-world"],"checks":["world-streaming","mods","autosaves","memory-pressure"],"settings":["view-distance","foliage","shadows","resolution-scale"],"local_cover":"ark-survival-evolved.svg","steam_url":"https://store.steampowered.com/app/346110/ARK_Survival_Evolved/","steamgriddb_url":"https://www.steamgriddb.com/game/6511"},
-    {"slug":"marvel-rivals","name":"Marvel Rivals","year":2024,"steam_appid":2767030,"steamgriddb_id":5447951,"engine":"Unreal Engine 5","renderer":"DirectX 12","cpu_pressure":"high","gpu_pressure":"high","vram_pressure":"medium","stutter_focus":"medium","features":["competitive","high-refresh","upscaling"],"checks":["background-cpu","overlays","frame-pacing","driver-game-version"],"settings":["latency","effects","shadows","upscaling"],"local_cover":"marvel-rivals.svg","steam_url":"https://store.steampowered.com/app/2767030/Marvel_Rivals/","steamgriddb_url":"https://www.steamgriddb.com/game/5447951"},
-    {"slug":"red-dead-redemption-2","name":"Red Dead Redemption 2","year":2019,"steam_appid":1174180,"steamgriddb_id":5249031,"engine":"RAGE","renderer":"Vulkan / DirectX 12","cpu_pressure":"medium","gpu_pressure":"high","vram_pressure":"high","stutter_focus":"medium","features":["open-world","vulkan"],"checks":["asset-streaming","vram-headroom","background-cpu","frame-pacing"],"settings":["advanced-settings","volumetrics","shadows","resolution"],"local_cover":"red-dead-redemption-2.svg","steam_url":"https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/","steamgriddb_url":"https://www.steamgriddb.com/game/5249031"},
-    {"slug":"baldurs-gate-3","name":"Baldur's Gate 3","year":2023,"steam_appid":1086940,"steamgriddb_id":5138060,"engine":"Divinity 4.0","renderer":"Vulkan / DirectX 11","cpu_pressure":"high","gpu_pressure":"medium","vram_pressure":"medium","stutter_focus":"medium","features":["simulation","vulkan"],"checks":["npc-simulation","background-cpu","frame-pacing","memory-pressure"],"settings":["resolution","upscaling","shadows","crowd-density"],"local_cover":"baldurs-gate-3.svg","steam_url":"https://store.steampowered.com/app/1086940/Baldurs_Gate_3/","steamgriddb_url":"https://www.steamgriddb.com/game/5138060"}
+    {
+      "slug": "cyberpunk-2077",
+      "name": "Cyberpunk 2077",
+      "year": 2020,
+      "steam_appid": 1091500,
+      "steamgriddb_id": 5209422,
+      "engine": "REDengine 4",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "ray-tracing",
+        "upscaling",
+        "frame-generation",
+        "open-world"
+      ],
+      "checks": [
+        "asset-streaming",
+        "background-cpu",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "ray-tracing",
+        "path-tracing",
+        "crowd-density",
+        "upscaling"
+      ],
+      "local_cover": "cyberpunk-2077.svg",
+      "steam_url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5209422",
+      "canonical_game_id": "cyberpunk_2077",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "minecraft-java",
+      "name": "Minecraft: Java Edition",
+      "year": 2011,
+      "steam_appid": null,
+      "steamgriddb_id": 5248835,
+      "engine": "Custom Java engine",
+      "renderer": "OpenGL",
+      "cpu_pressure": "high",
+      "gpu_pressure": "variable",
+      "vram_pressure": "variable",
+      "stutter_focus": "high",
+      "features": [
+        "modded",
+        "shaders",
+        "simulation"
+      ],
+      "checks": [
+        "chunk-generation",
+        "java-gc",
+        "mods",
+        "background-cpu"
+      ],
+      "settings": [
+        "render-distance",
+        "simulation-distance",
+        "shaders",
+        "ram-allocation"
+      ],
+      "local_cover": "minecraft-java-official.jpg",
+      "official_url": "https://www.minecraft.net/store/minecraft-java-bedrock-edition-pc",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5248835",
+      "canonical_game_id": "minecraft_java",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "grand-theft-auto-iv",
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "year": 2008,
+      "steam_appid": 12210,
+      "steamgriddb_id": 1361,
+      "engine": "RAGE",
+      "renderer": "DirectX 9",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "legacy",
+        "open-world"
+      ],
+      "checks": [
+        "cpu-scheduling",
+        "legacy-compatibility",
+        "frame-pacing",
+        "background-cpu"
+      ],
+      "settings": [
+        "view-distance",
+        "detail-distance",
+        "shadows",
+        "driver-overrides"
+      ],
+      "local_cover": "grand-theft-auto-iv.svg",
+      "steam_url": "https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/1361",
+      "canonical_game_id": "grand_theft_auto_iv",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "batman-arkham-knight",
+      "name": "Batman: Arkham Knight",
+      "year": 2015,
+      "steam_appid": 208650,
+      "steamgriddb_id": 1947,
+      "engine": "Unreal Engine 3",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "open-world",
+        "streaming"
+      ],
+      "checks": [
+        "asset-streaming",
+        "vram-headroom",
+        "storage-health",
+        "background-cpu"
+      ],
+      "settings": [
+        "textures",
+        "shadows",
+        "effects",
+        "resolution"
+      ],
+      "local_cover": "batman-arkham-knight.svg",
+      "steam_url": "https://store.steampowered.com/app/208650/Batman_Arkham_Knight/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/1947",
+      "canonical_game_id": "batman_arkham_knight",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "star-wars-jedi-survivor",
+      "name": "STAR WARS Jedi: Survivor™",
+      "year": 2023,
+      "steam_appid": 1774580,
+      "steamgriddb_id": 5330917,
+      "engine": "Unreal Engine 4",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "ray-tracing",
+        "streaming"
+      ],
+      "checks": [
+        "shader-compilation",
+        "traversal",
+        "asset-streaming",
+        "vram-headroom"
+      ],
+      "settings": [
+        "ray-tracing",
+        "resolution-scale",
+        "shadows",
+        "effects"
+      ],
+      "local_cover": "star-wars-jedi-survivor.svg",
+      "steam_url": "https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5330917",
+      "canonical_game_id": "star_wars_jedi_survivor",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "elden-ring",
+      "name": "ELDEN RING",
+      "year": 2022,
+      "steam_appid": 1245620,
+      "steamgriddb_id": 5277816,
+      "engine": "FromSoftware engine",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "ray-tracing",
+        "open-world"
+      ],
+      "checks": [
+        "shader-compilation",
+        "traversal",
+        "frame-cap",
+        "background-cpu"
+      ],
+      "settings": [
+        "ray-tracing",
+        "resolution",
+        "shadows",
+        "effects"
+      ],
+      "local_cover": "elden-ring.svg",
+      "steam_url": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5277816",
+      "canonical_game_id": "elden_ring",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "dragons-dogma-2",
+      "name": "Dragon's Dogma 2",
+      "year": 2024,
+      "steam_appid": 2054970,
+      "steamgriddb_id": 5406918,
+      "engine": "RE ENGINE",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "open-world",
+        "simulation"
+      ],
+      "checks": [
+        "npc-simulation",
+        "asset-streaming",
+        "background-cpu",
+        "vram-headroom"
+      ],
+      "settings": [
+        "image-quality",
+        "shadows",
+        "effects",
+        "resolution"
+      ],
+      "local_cover": "dragons-dogma-2.svg",
+      "steam_url": "https://store.steampowered.com/app/2054970/Dragons_Dogma_2/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5406918",
+      "canonical_game_id": "dragons_dogma_2",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "borderlands-4",
+      "name": "Borderlands 4",
+      "year": 2025,
+      "steam_appid": 1285190,
+      "steamgriddb_id": 5462355,
+      "engine": "Unreal Engine 5",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "ue5",
+        "dynamic-lighting",
+        "open-world"
+      ],
+      "checks": [
+        "shader-compilation",
+        "asset-streaming",
+        "background-cpu",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "effects",
+        "resolution-scale",
+        "lighting"
+      ],
+      "local_cover": "borderlands-4.svg",
+      "steam_url": "https://store.steampowered.com/app/1285190/Borderlands_4/",
+      "official_url": "https://borderlands.2k.com/borderlands-4/update-notes/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5462355",
+      "canonical_game_id": "borderlands_4",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "ark-survival-evolved",
+      "name": "ARK: Survival Evolved",
+      "year": 2017,
+      "steam_appid": 346110,
+      "steamgriddb_id": 6511,
+      "engine": "Unreal Engine 4",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "modded",
+        "simulation",
+        "open-world"
+      ],
+      "checks": [
+        "world-streaming",
+        "mods",
+        "autosaves",
+        "memory-pressure"
+      ],
+      "settings": [
+        "view-distance",
+        "foliage",
+        "shadows",
+        "resolution-scale"
+      ],
+      "local_cover": "ark-survival-evolved.svg",
+      "steam_url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/6511",
+      "canonical_game_id": "ark_survival_evolved",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "marvel-rivals",
+      "name": "Marvel Rivals",
+      "year": 2024,
+      "steam_appid": 2767030,
+      "steamgriddb_id": 5447951,
+      "engine": "Unreal Engine 5",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "medium",
+      "stutter_focus": "medium",
+      "features": [
+        "competitive",
+        "high-refresh",
+        "upscaling"
+      ],
+      "checks": [
+        "background-cpu",
+        "overlays",
+        "frame-pacing",
+        "driver-game-version"
+      ],
+      "settings": [
+        "latency",
+        "effects",
+        "shadows",
+        "upscaling"
+      ],
+      "local_cover": "marvel-rivals.svg",
+      "steam_url": "https://store.steampowered.com/app/2767030/Marvel_Rivals/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5447951",
+      "canonical_game_id": "marvel_rivals",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "red-dead-redemption-2",
+      "name": "Red Dead Redemption 2",
+      "year": 2019,
+      "steam_appid": 1174180,
+      "steamgriddb_id": 5249031,
+      "engine": "RAGE",
+      "renderer": "Vulkan / DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "open-world",
+        "vulkan"
+      ],
+      "checks": [
+        "asset-streaming",
+        "vram-headroom",
+        "background-cpu",
+        "frame-pacing"
+      ],
+      "settings": [
+        "advanced-settings",
+        "volumetrics",
+        "shadows",
+        "resolution"
+      ],
+      "local_cover": "red-dead-redemption-2.svg",
+      "steam_url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5249031",
+      "canonical_game_id": "red_dead_redemption_2",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "baldurs-gate-3",
+      "name": "Baldur's Gate 3",
+      "year": 2023,
+      "steam_appid": 1086940,
+      "steamgriddb_id": 5138060,
+      "engine": "Divinity 4.0",
+      "renderer": "Vulkan / DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "medium",
+      "stutter_focus": "medium",
+      "features": [
+        "simulation",
+        "vulkan"
+      ],
+      "checks": [
+        "npc-simulation",
+        "background-cpu",
+        "frame-pacing",
+        "memory-pressure"
+      ],
+      "settings": [
+        "resolution",
+        "upscaling",
+        "shadows",
+        "crowd-density"
+      ],
+      "local_cover": "baldurs-gate-3.svg",
+      "steam_url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
+      "steamgriddb_url": "https://www.steamgriddb.com/game/5138060",
+      "canonical_game_id": "baldurs_gate_3",
+      "knowledge_state": "PUBLIC_BASELINE"
+    },
+    {
+      "slug": "ark-survival-ascended",
+      "name": "ARK: Survival Ascended",
+      "year": 2023,
+      "steam_appid": 2399830,
+      "steamgriddb_id": null,
+      "engine": "Unreal Engine 5",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "ue5",
+        "open-world",
+        "upscaling",
+        "simulation"
+      ],
+      "checks": [
+        "shader-compilation",
+        "asset-streaming",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "global-illumination",
+        "shadows",
+        "upscaling",
+        "frame-generation"
+      ],
+      "local_cover": "ark-survival-ascended.svg",
+      "canonical_game_id": "ark_survival_ascended",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2399830/",
+      "official_url": null
+    },
+    {
+      "slug": "overwatch-2",
+      "name": "Overwatch 2",
+      "year": 2022,
+      "steam_appid": 2357570,
+      "steamgriddb_id": null,
+      "engine": "Blizzard engine",
+      "renderer": "DirectX 12 / 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "high-refresh",
+        "hero-shooter"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "overwatch-2.svg",
+      "canonical_game_id": "overwatch_2",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2357570/",
+      "official_url": null
+    },
+    {
+      "slug": "fortnite",
+      "name": "Fortnite",
+      "year": 2017,
+      "steam_appid": null,
+      "steamgriddb_id": null,
+      "engine": "Unreal Engine 5",
+      "renderer": "DirectX 12 / 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "ue5",
+        "nanite-lumen",
+        "upscaling"
+      ],
+      "checks": [
+        "shader-compilation",
+        "asset-streaming",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "global-illumination",
+        "shadows",
+        "upscaling",
+        "frame-generation"
+      ],
+      "local_cover": "fortnite.svg",
+      "canonical_game_id": "fortnite",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": null,
+      "official_url": "https://www.fortnite.com/"
+    },
+    {
+      "slug": "counter-strike-2",
+      "name": "Counter-Strike 2",
+      "year": 2023,
+      "steam_appid": 730,
+      "steamgriddb_id": null,
+      "engine": "Source 2",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "low",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "high-refresh",
+        "source-2"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "counter-strike-2.svg",
+      "canonical_game_id": "counter_strike_2",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/730/",
+      "official_url": null
+    },
+    {
+      "slug": "valorant",
+      "name": "VALORANT",
+      "year": 2020,
+      "steam_appid": null,
+      "steamgriddb_id": null,
+      "engine": "Unreal Engine 4",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "low",
+      "vram_pressure": "low",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "high-refresh",
+        "esports"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "valorant.svg",
+      "canonical_game_id": "valorant",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": null,
+      "official_url": "https://playvalorant.com/"
+    },
+    {
+      "slug": "apex-legends",
+      "name": "Apex Legends",
+      "year": 2019,
+      "steam_appid": 1172470,
+      "steamgriddb_id": null,
+      "engine": "Source-derived engine",
+      "renderer": "DirectX 12 / 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "battle-royale",
+        "high-refresh"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "apex-legends.svg",
+      "canonical_game_id": "apex_legends",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1172470/",
+      "official_url": null
+    },
+    {
+      "slug": "call-of-duty-warzone",
+      "name": "Call of Duty: Warzone",
+      "year": 2020,
+      "steam_appid": 1962663,
+      "steamgriddb_id": null,
+      "engine": "IW engine",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "battle-royale",
+        "upscaling"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "call-of-duty-warzone.svg",
+      "canonical_game_id": "call_of_duty_warzone",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1962663/",
+      "official_url": null
+    },
+    {
+      "slug": "hogwarts-legacy",
+      "name": "Hogwarts Legacy",
+      "year": 2023,
+      "steam_appid": 990080,
+      "steamgriddb_id": null,
+      "engine": "Unreal Engine 4",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "open-world",
+        "ray-tracing",
+        "upscaling"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "hogwarts-legacy.svg",
+      "canonical_game_id": "hogwarts_legacy",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/990080/",
+      "official_url": null
+    },
+    {
+      "slug": "starfield",
+      "name": "Starfield",
+      "year": 2023,
+      "steam_appid": 1716740,
+      "steamgriddb_id": null,
+      "engine": "Creation Engine 2",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "open-world",
+        "simulation",
+        "upscaling"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "starfield.svg",
+      "canonical_game_id": "starfield",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1716740/",
+      "official_url": null
+    },
+    {
+      "slug": "helldivers-2",
+      "name": "HELLDIVERS 2",
+      "year": 2024,
+      "steam_appid": 553850,
+      "steamgriddb_id": null,
+      "engine": "Autodesk Stingray",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "co-op",
+        "effects-heavy",
+        "high-action"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-gpu-balance",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "quality-preset",
+        "shadows",
+        "textures",
+        "resolution-scale"
+      ],
+      "local_cover": "helldivers-2.svg",
+      "canonical_game_id": "helldivers_2",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/553850/",
+      "official_url": null
+    },
+    {
+      "slug": "monster-hunter-wilds",
+      "name": "Monster Hunter Wilds",
+      "year": 2025,
+      "steam_appid": 2246340,
+      "steamgriddb_id": null,
+      "engine": "RE ENGINE",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "open-world",
+        "upscaling",
+        "frame-generation"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "monster-hunter-wilds.svg",
+      "canonical_game_id": "monster_hunter_wilds",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2246340/",
+      "official_url": null
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt",
+      "name": "The Witcher 3: Wild Hunt",
+      "year": 2015,
+      "steam_appid": 292030,
+      "steamgriddb_id": null,
+      "engine": "REDengine 3",
+      "renderer": "DirectX 12 / 11",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "open-world",
+        "ray-tracing",
+        "upscaling"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "the-witcher-3-wild-hunt.svg",
+      "canonical_game_id": "the_witcher_3_wild_hunt",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/292030/",
+      "official_url": null
+    },
+    {
+      "slug": "fallout-4",
+      "name": "Fallout 4",
+      "year": 2015,
+      "steam_appid": 377160,
+      "steamgriddb_id": null,
+      "engine": "Creation Engine",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "open-world",
+        "modded",
+        "simulation"
+      ],
+      "checks": [
+        "main-thread-load",
+        "simulation-load",
+        "memory-pressure",
+        "background-cpu"
+      ],
+      "settings": [
+        "simulation-detail",
+        "view-distance",
+        "shadows",
+        "resolution-scale"
+      ],
+      "local_cover": "fallout-4.svg",
+      "canonical_game_id": "fallout_4",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/377160/",
+      "official_url": null
+    },
+    {
+      "slug": "forza-horizon-5",
+      "name": "Forza Horizon 5",
+      "year": 2021,
+      "steam_appid": 1551360,
+      "steamgriddb_id": null,
+      "engine": "ForzaTech",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "open-world",
+        "racing",
+        "high-refresh"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "forza-horizon-5.svg",
+      "canonical_game_id": "forza_horizon_5",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1551360/",
+      "official_url": null
+    },
+    {
+      "slug": "assassins-creed-shadows",
+      "name": "Assassin's Creed Shadows",
+      "year": 2025,
+      "steam_appid": 3159330,
+      "steamgriddb_id": null,
+      "engine": "Anvil engine",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "open-world",
+        "ray-tracing",
+        "upscaling"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "assassins-creed-shadows.svg",
+      "canonical_game_id": "assassin_s_creed_shadows",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/3159330/",
+      "official_url": null
+    },
+    {
+      "slug": "cities-skylines-ii",
+      "name": "Cities: Skylines II",
+      "year": 2023,
+      "steam_appid": 949230,
+      "steamgriddb_id": null,
+      "engine": "Unity",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "simulation",
+        "city-builder",
+        "modded"
+      ],
+      "checks": [
+        "main-thread-load",
+        "simulation-load",
+        "memory-pressure",
+        "background-cpu"
+      ],
+      "settings": [
+        "simulation-detail",
+        "view-distance",
+        "shadows",
+        "resolution-scale"
+      ],
+      "local_cover": "cities-skylines-ii.svg",
+      "canonical_game_id": "cities_skylines_ii",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/949230/",
+      "official_url": null
+    },
+    {
+      "slug": "black-myth-wukong",
+      "name": "Black Myth: Wukong",
+      "year": 2024,
+      "steam_appid": 2358720,
+      "steamgriddb_id": null,
+      "engine": "Unreal Engine 5",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "ue5",
+        "ray-tracing",
+        "upscaling",
+        "frame-generation"
+      ],
+      "checks": [
+        "shader-compilation",
+        "asset-streaming",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "global-illumination",
+        "shadows",
+        "upscaling",
+        "frame-generation"
+      ],
+      "local_cover": "black-myth-wukong.svg",
+      "canonical_game_id": "black_myth_wukong",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2358720/",
+      "official_url": null
+    },
+    {
+      "slug": "palworld",
+      "name": "Palworld",
+      "year": 2024,
+      "steam_appid": 1623730,
+      "steamgriddb_id": null,
+      "engine": "Unreal Engine 5",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "ue5",
+        "open-world",
+        "simulation",
+        "multiplayer"
+      ],
+      "checks": [
+        "shader-compilation",
+        "asset-streaming",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "global-illumination",
+        "shadows",
+        "upscaling",
+        "frame-generation"
+      ],
+      "local_cover": "palworld.svg",
+      "canonical_game_id": "palworld",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1623730/",
+      "official_url": null
+    },
+    {
+      "slug": "rust",
+      "name": "Rust",
+      "year": 2018,
+      "steam_appid": 252490,
+      "steamgriddb_id": null,
+      "engine": "Unity",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "open-world",
+        "survival"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "rust.svg",
+      "canonical_game_id": "rust",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/252490/",
+      "official_url": null
+    },
+    {
+      "slug": "destiny-2",
+      "name": "Destiny 2",
+      "year": 2017,
+      "steam_appid": 1085660,
+      "steamgriddb_id": null,
+      "engine": "Tiger engine",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "online",
+        "high-refresh"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "destiny-2.svg",
+      "canonical_game_id": "destiny_2",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1085660/",
+      "official_url": null
+    },
+    {
+      "slug": "diablo-iv",
+      "name": "Diablo IV",
+      "year": 2023,
+      "steam_appid": 2344520,
+      "steamgriddb_id": null,
+      "engine": "Blizzard engine",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "online",
+        "upscaling",
+        "open-world"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-gpu-balance",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "quality-preset",
+        "shadows",
+        "textures",
+        "resolution-scale"
+      ],
+      "local_cover": "diablo-iv.svg",
+      "canonical_game_id": "diablo_iv",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2344520/",
+      "official_url": null
+    },
+    {
+      "slug": "path-of-exile-2",
+      "name": "Path of Exile 2",
+      "year": 2024,
+      "steam_appid": 2694490,
+      "steamgriddb_id": null,
+      "engine": "Custom engine",
+      "renderer": "DirectX 12 / Vulkan",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "online",
+        "effects-heavy",
+        "upscaling"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-gpu-balance",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "quality-preset",
+        "shadows",
+        "textures",
+        "resolution-scale"
+      ],
+      "local_cover": "path-of-exile-2.svg",
+      "canonical_game_id": "path_of_exile_2",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2694490/",
+      "official_url": null
+    },
+    {
+      "slug": "alan-wake-2",
+      "name": "Alan Wake 2",
+      "year": 2023,
+      "steam_appid": null,
+      "steamgriddb_id": null,
+      "engine": "Northlight",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "ray-tracing",
+        "path-tracing",
+        "upscaling",
+        "frame-generation"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-gpu-balance",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "quality-preset",
+        "shadows",
+        "textures",
+        "resolution-scale"
+      ],
+      "local_cover": "alan-wake-2.svg",
+      "canonical_game_id": "alan_wake_2",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": null,
+      "official_url": "https://www.alanwake.com/"
+    },
+    {
+      "slug": "control",
+      "name": "Control Ultimate Edition",
+      "year": 2019,
+      "steam_appid": 870780,
+      "steamgriddb_id": null,
+      "engine": "Northlight",
+      "renderer": "DirectX 12 / 11",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "ray-tracing",
+        "upscaling",
+        "destruction"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-gpu-balance",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "quality-preset",
+        "shadows",
+        "textures",
+        "resolution-scale"
+      ],
+      "local_cover": "control.svg",
+      "canonical_game_id": "control",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/870780/",
+      "official_url": null
+    },
+    {
+      "slug": "far-cry-6",
+      "name": "Far Cry 6",
+      "year": 2021,
+      "steam_appid": 2369390,
+      "steamgriddb_id": null,
+      "engine": "Dunia 2",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "open-world",
+        "ray-tracing",
+        "upscaling"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "far-cry-6.svg",
+      "canonical_game_id": "far_cry_6",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2369390/",
+      "official_url": null
+    },
+    {
+      "slug": "team-fortress-2",
+      "name": "Team Fortress 2",
+      "year": 2007,
+      "steam_appid": 440,
+      "steamgriddb_id": null,
+      "engine": "Source",
+      "renderer": "DirectX 9",
+      "cpu_pressure": "high",
+      "gpu_pressure": "low",
+      "vram_pressure": "low",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "high-refresh",
+        "source"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "team-fortress-2.svg",
+      "canonical_game_id": "team_fortress_2",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/440/",
+      "official_url": null
+    },
+    {
+      "slug": "forza-motorsport",
+      "name": "Forza Motorsport",
+      "year": 2023,
+      "steam_appid": 2440510,
+      "steamgriddb_id": null,
+      "engine": "ForzaTech",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "racing",
+        "ray-tracing",
+        "high-refresh"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-gpu-balance",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "quality-preset",
+        "shadows",
+        "textures",
+        "resolution-scale"
+      ],
+      "local_cover": "forza-motorsport.svg",
+      "canonical_game_id": "forza_motorsport",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2440510/",
+      "official_url": null
+    },
+    {
+      "slug": "microsoft-flight-simulator-2024",
+      "name": "Microsoft Flight Simulator 2024",
+      "year": 2024,
+      "steam_appid": 2537590,
+      "steamgriddb_id": null,
+      "engine": "Asobo engine",
+      "renderer": "DirectX 12 / 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "simulation",
+        "streaming",
+        "vr"
+      ],
+      "checks": [
+        "main-thread-load",
+        "simulation-load",
+        "memory-pressure",
+        "background-cpu"
+      ],
+      "settings": [
+        "simulation-detail",
+        "view-distance",
+        "shadows",
+        "resolution-scale"
+      ],
+      "local_cover": "microsoft-flight-simulator-2024.svg",
+      "canonical_game_id": "microsoft_flight_simulator_2024",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2537590/",
+      "official_url": null
+    },
+    {
+      "slug": "kingdom-come-deliverance-ii",
+      "name": "Kingdom Come: Deliverance II",
+      "year": 2025,
+      "steam_appid": 1771300,
+      "steamgriddb_id": null,
+      "engine": "CryEngine",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "high",
+      "features": [
+        "open-world",
+        "simulation",
+        "upscaling"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "kingdom-come-deliverance-ii.svg",
+      "canonical_game_id": "kingdom_come_deliverance_ii",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1771300/",
+      "official_url": null
+    },
+    {
+      "slug": "final-fantasy-vii-rebirth",
+      "name": "FINAL FANTASY VII REBIRTH",
+      "year": 2025,
+      "steam_appid": 2909400,
+      "steamgriddb_id": null,
+      "engine": "Unreal Engine 4",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "open-world",
+        "effects-heavy",
+        "upscaling"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "final-fantasy-vii-rebirth.svg",
+      "canonical_game_id": "final_fantasy_vii_rebirth",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2909400/",
+      "official_url": null
+    },
+    {
+      "slug": "resident-evil-village",
+      "name": "Resident Evil Village",
+      "year": 2021,
+      "steam_appid": 1196590,
+      "steamgriddb_id": null,
+      "engine": "RE ENGINE",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "ray-tracing",
+        "upscaling",
+        "survival-horror"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-gpu-balance",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "quality-preset",
+        "shadows",
+        "textures",
+        "resolution-scale"
+      ],
+      "local_cover": "resident-evil-village.svg",
+      "canonical_game_id": "resident_evil_village",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1196590/",
+      "official_url": null
+    },
+    {
+      "slug": "horizon-forbidden-west",
+      "name": "Horizon Forbidden West Complete Edition",
+      "year": 2024,
+      "steam_appid": 2420110,
+      "steamgriddb_id": null,
+      "engine": "Decima",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "medium",
+      "gpu_pressure": "high",
+      "vram_pressure": "high",
+      "stutter_focus": "medium",
+      "features": [
+        "open-world",
+        "upscaling",
+        "frame-generation"
+      ],
+      "checks": [
+        "asset-streaming",
+        "cpu-headroom",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "shadows",
+        "view-distance",
+        "textures",
+        "upscaling"
+      ],
+      "local_cover": "horizon-forbidden-west.svg",
+      "canonical_game_id": "horizon_forbidden_west",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/2420110/",
+      "official_url": null
+    },
+    {
+      "slug": "no-mans-sky",
+      "name": "No Man's Sky",
+      "year": 2016,
+      "steam_appid": 275850,
+      "steamgriddb_id": null,
+      "engine": "Custom engine",
+      "renderer": "Vulkan",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "open-world",
+        "simulation",
+        "vr",
+        "upscaling"
+      ],
+      "checks": [
+        "main-thread-load",
+        "simulation-load",
+        "memory-pressure",
+        "background-cpu"
+      ],
+      "settings": [
+        "simulation-detail",
+        "view-distance",
+        "shadows",
+        "resolution-scale"
+      ],
+      "local_cover": "no-mans-sky.svg",
+      "canonical_game_id": "no_man_s_sky",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/275850/",
+      "official_url": null
+    },
+    {
+      "slug": "age-of-empires-iv",
+      "name": "Age of Empires IV",
+      "year": 2021,
+      "steam_appid": 1466860,
+      "steamgriddb_id": null,
+      "engine": "Essence Engine",
+      "renderer": "DirectX 12",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "medium",
+      "stutter_focus": "medium",
+      "features": [
+        "rts",
+        "simulation",
+        "large-battles"
+      ],
+      "checks": [
+        "main-thread-load",
+        "simulation-load",
+        "memory-pressure",
+        "background-cpu"
+      ],
+      "settings": [
+        "simulation-detail",
+        "view-distance",
+        "shadows",
+        "resolution-scale"
+      ],
+      "local_cover": "age-of-empires-iv.svg",
+      "canonical_game_id": "age_of_empires_iv",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/1466860/",
+      "official_url": null
+    },
+    {
+      "slug": "space-engineers",
+      "name": "Space Engineers",
+      "year": 2019,
+      "steam_appid": 244850,
+      "steamgriddb_id": null,
+      "engine": "VRage 2",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "medium",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "simulation",
+        "voxel",
+        "modded"
+      ],
+      "checks": [
+        "main-thread-load",
+        "simulation-load",
+        "memory-pressure",
+        "background-cpu"
+      ],
+      "settings": [
+        "simulation-detail",
+        "view-distance",
+        "shadows",
+        "resolution-scale"
+      ],
+      "local_cover": "space-engineers.svg",
+      "canonical_game_id": "space_engineers",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/244850/",
+      "official_url": null
+    },
+    {
+      "slug": "squad",
+      "name": "Squad",
+      "year": 2020,
+      "steam_appid": 393380,
+      "steamgriddb_id": null,
+      "engine": "Unreal Engine 4",
+      "renderer": "DirectX 12 / 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "high",
+      "vram_pressure": "medium",
+      "stutter_focus": "high",
+      "features": [
+        "competitive",
+        "large-scale",
+        "multiplayer"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-headroom",
+        "input-latency",
+        "background-cpu"
+      ],
+      "settings": [
+        "frame-limit",
+        "latency-options",
+        "shadows-effects",
+        "render-scale"
+      ],
+      "local_cover": "squad.svg",
+      "canonical_game_id": "squad",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/393380/",
+      "official_url": null
+    },
+    {
+      "slug": "roblox",
+      "name": "Roblox",
+      "year": 2006,
+      "steam_appid": null,
+      "steamgriddb_id": null,
+      "engine": "Roblox engine",
+      "renderer": "DirectX 11",
+      "cpu_pressure": "high",
+      "gpu_pressure": "variable",
+      "vram_pressure": "variable",
+      "stutter_focus": "medium",
+      "features": [
+        "user-generated",
+        "online",
+        "variable-workloads"
+      ],
+      "checks": [
+        "frame-pacing",
+        "cpu-gpu-balance",
+        "vram-headroom",
+        "driver-game-version"
+      ],
+      "settings": [
+        "quality-preset",
+        "shadows",
+        "textures",
+        "resolution-scale"
+      ],
+      "local_cover": "roblox.svg",
+      "canonical_game_id": "roblox",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": null,
+      "official_url": "https://www.roblox.com/"
+    },
+    {
+      "slug": "rimworld",
+      "name": "RimWorld",
+      "year": 2018,
+      "steam_appid": 294100,
+      "steamgriddb_id": null,
+      "engine": "Unity",
+      "renderer": "DirectX 11 / OpenGL",
+      "cpu_pressure": "high",
+      "gpu_pressure": "low",
+      "vram_pressure": "low",
+      "stutter_focus": "medium",
+      "features": [
+        "simulation",
+        "modded",
+        "colony-sim"
+      ],
+      "checks": [
+        "main-thread-load",
+        "simulation-load",
+        "memory-pressure",
+        "background-cpu"
+      ],
+      "settings": [
+        "simulation-detail",
+        "view-distance",
+        "shadows",
+        "resolution-scale"
+      ],
+      "local_cover": "rimworld.svg",
+      "canonical_game_id": "rimworld",
+      "knowledge_state": "EVIDENCE_READY",
+      "steam_url": "https://store.steampowered.com/app/294100/",
+      "official_url": null
+    }
   ]
 }

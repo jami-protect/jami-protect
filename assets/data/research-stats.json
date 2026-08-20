@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "public_game_pages": 12,
-  "public_cover_profiles": 12,
+  "public_game_pages": 50,
+  "public_cover_profiles": 50,
   "display_modes": 2,
   "research_refresh": "AUTO",
   "games_researched": null,
   "validated_transcripts": null,
   "last_export_utc": null,
-  "note": "GameKnowledge can overwrite games_researched, validated_transcripts and last_export_utc when the website exporter is connected.",
-  "site_build": "6.9.0",
-  "registry_version": "6.9.0",
-  "last_export_date": "2026-08-17"
+  "note": "50 public Game Intelligence profiles. 38 V6.10.1 additions are selected from GameKnowledge evidence-ready identities; public pages remain research baselines until validation gates authorize stronger claims.",
+  "site_build": "6.10.1",
+  "registry_version": "6.10.1",
+  "last_export_date": "2026-08-20"
 }
