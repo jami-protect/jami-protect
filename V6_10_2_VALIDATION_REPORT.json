@@ -1,0 +1,21 @@
+{
+  "version": "6.10.2",
+  "status": "PASS",
+  "total_html": 657,
+  "indexable_html": 648,
+  "authority_pages_total": 117,
+  "authority_target_pages": 108,
+  "guides_hubs": 9,
+  "game_profiles": 450,
+  "game_profiles_with_authority_links": 450,
+  "sitemap_urls": 648,
+  "broken_internal_refs": 0,
+  "hreflang_errors": 0,
+  "jsonld_errors_new_authority_pages": 0,
+  "canonical_count": 657,
+  "canonical_unique": 657,
+  "authority_titles_unique": 117,
+  "authority_descriptions_unique": 117,
+  "robots_sitemap_declared": true,
+  "validation_note": "Internal refs validated against V6.10.2 patch output plus unchanged V6.9.0+ base assets."
+}
