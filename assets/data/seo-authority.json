@@ -1,0 +1,222 @@
+{
+  "schema": "jami.seo.authority.v6102",
+  "version": "6.10.2",
+  "generated_at": "2026-08-20",
+  "locales": [
+    "en",
+    "nl",
+    "de",
+    "fr",
+    "es",
+    "pt-BR",
+    "pl",
+    "ja",
+    "tr"
+  ],
+  "routes": [
+    {
+      "slug": "game-optimization",
+      "primary_keyword": "game optimization",
+      "related_guides": [
+        "gaming-pc-optimizer",
+        "windows-11-gaming-optimizer",
+        "game-performance-analyzer"
+      ],
+      "related_games": [
+        "cyberpunk-2077",
+        "ark-survival-ascended",
+        "cities-skylines-ii",
+        "black-myth-wukong",
+        "overwatch-2",
+        "minecraft-java"
+      ]
+    },
+    {
+      "slug": "gaming-pc-optimizer",
+      "primary_keyword": "gaming PC optimizer",
+      "related_guides": [
+        "game-optimization",
+        "safe-pc-optimizer",
+        "gaming-pc-diagnostic-tool"
+      ],
+      "related_games": [
+        "cyberpunk-2077",
+        "fortnite",
+        "overwatch-2",
+        "apex-legends",
+        "helldivers-2",
+        "forza-horizon-5"
+      ]
+    },
+    {
+      "slug": "windows-11-gaming-optimizer",
+      "primary_keyword": "Windows 11 gaming optimizer",
+      "related_guides": [
+        "gaming-pc-optimizer",
+        "driver-health-checker",
+        "game-stutter-fix"
+      ],
+      "related_games": [
+        "overwatch-2",
+        "fortnite",
+        "counter-strike-2",
+        "call-of-duty-warzone",
+        "ark-survival-ascended",
+        "starfield"
+      ]
+    },
+    {
+      "slug": "gaming-pc-diagnostic-tool",
+      "primary_keyword": "gaming PC diagnostic tool",
+      "related_guides": [
+        "game-performance-analyzer",
+        "gaming-crash-diagnostics",
+        "driver-health-checker"
+      ],
+      "related_games": [
+        "cities-skylines-ii",
+        "ark-survival-ascended",
+        "cyberpunk-2077",
+        "microsoft-flight-simulator-2024",
+        "starfield",
+        "hogwarts-legacy"
+      ]
+    },
+    {
+      "slug": "game-performance-analyzer",
+      "primary_keyword": "game performance analyzer",
+      "related_guides": [
+        "frametime-analyzer",
+        "improve-1-percent-lows",
+        "game-stutter-fix"
+      ],
+      "related_games": [
+        "cyberpunk-2077",
+        "overwatch-2",
+        "ark-survival-ascended",
+        "counter-strike-2",
+        "cities-skylines-ii",
+        "black-myth-wukong"
+      ]
+    },
+    {
+      "slug": "game-stutter-fix",
+      "primary_keyword": "game stutter fix Windows 11",
+      "related_guides": [
+        "frametime-analyzer",
+        "improve-1-percent-lows",
+        "gaming-pc-diagnostic-tool"
+      ],
+      "related_games": [
+        "ark-survival-ascended",
+        "hogwarts-legacy",
+        "starfield",
+        "cyberpunk-2077",
+        "cities-skylines-ii",
+        "black-myth-wukong"
+      ]
+    },
+    {
+      "slug": "gaming-crash-diagnostics",
+      "primary_keyword": "game crashes Windows 11 fix",
+      "related_guides": [
+        "bsod-while-gaming",
+        "driver-health-checker",
+        "gaming-pc-diagnostic-tool"
+      ],
+      "related_games": [
+        "ark-survival-ascended",
+        "starfield",
+        "call-of-duty-warzone",
+        "cities-skylines-ii",
+        "helldivers-2",
+        "minecraft-java"
+      ]
+    },
+    {
+      "slug": "bsod-while-gaming",
+      "primary_keyword": "BSOD while gaming",
+      "related_guides": [
+        "gaming-crash-diagnostics",
+        "driver-health-checker",
+        "safe-pc-optimizer"
+      ],
+      "related_games": [
+        "call-of-duty-warzone",
+        "ark-survival-ascended",
+        "starfield",
+        "cyberpunk-2077",
+        "overwatch-2",
+        "helldivers-2"
+      ]
+    },
+    {
+      "slug": "frametime-analyzer",
+      "primary_keyword": "frametime analyzer",
+      "related_guides": [
+        "improve-1-percent-lows",
+        "game-performance-analyzer",
+        "game-stutter-fix"
+      ],
+      "related_games": [
+        "counter-strike-2",
+        "overwatch-2",
+        "fortnite",
+        "apex-legends",
+        "cyberpunk-2077",
+        "ark-survival-ascended"
+      ]
+    },
+    {
+      "slug": "improve-1-percent-lows",
+      "primary_keyword": "improve 1% lows gaming",
+      "related_guides": [
+        "frametime-analyzer",
+        "game-performance-analyzer",
+        "game-stutter-fix"
+      ],
+      "related_games": [
+        "overwatch-2",
+        "counter-strike-2",
+        "fortnite",
+        "apex-legends",
+        "ark-survival-ascended",
+        "cyberpunk-2077"
+      ]
+    },
+    {
+      "slug": "driver-health-checker",
+      "primary_keyword": "driver health checker Windows 11",
+      "related_guides": [
+        "gaming-crash-diagnostics",
+        "windows-11-gaming-optimizer",
+        "safe-pc-optimizer"
+      ],
+      "related_games": [
+        "cyberpunk-2077",
+        "ark-survival-ascended",
+        "overwatch-2",
+        "black-myth-wukong",
+        "starfield",
+        "call-of-duty-warzone"
+      ]
+    },
+    {
+      "slug": "safe-pc-optimizer",
+      "primary_keyword": "safe PC optimizer",
+      "related_guides": [
+        "gaming-pc-optimizer",
+        "windows-11-gaming-optimizer",
+        "gaming-pc-diagnostic-tool"
+      ],
+      "related_games": [
+        "cyberpunk-2077",
+        "ark-survival-ascended",
+        "overwatch-2",
+        "minecraft-java",
+        "cities-skylines-ii",
+        "fortnite"
+      ]
+    }
+  ]
+}
